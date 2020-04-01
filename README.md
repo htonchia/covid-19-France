@@ -9,7 +9,7 @@ On note que jusqu'au 23 mars, les hospitalisations (après passage aux urgences 
 On note aussi une diminution des hospitalisations le week-end et un rattrapage le lundi suivant.
 Le plateau peut être du :
 - à un fléchissement de l'épidémie en raison du confinement
-- ou à un durcissement des critères d'hospitalisation
+- ou à un changement des procédures d'hospitalisation
 
 ![](Images/Covid19_hosp_urgence_20200330.png)
 
