@@ -5,5 +5,12 @@ Ces données sont corrigées d'erreur évidentes, carré de la valeur au lieu de
 
 Suivi des hospitalisations après passage aux urgences pour suspicion de COVID-19.
 
+On note que les hospitalisations (après passage aux urgences pour suspicion de COVID-19) ont suivi une courbe exponentielle jusqu'au 23 mars avant d'atteindre un plateau. 
+Les données montrent une diminution des hospitalisations le week-end suivie d'un rattrapage le lundi suivant.
+Le plateau peut être du :
+- à un fléchissement de l'épidémie en raison du confinement
+- à un changement des procédures d'hospitalisation
+- ou à une saturation du 15
 
+![](Images/Covid19_hosp_urgence_20200330.png)
 
