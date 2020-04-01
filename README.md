@@ -12,5 +12,5 @@ Le plateau peut être du :
 - à un changement des procédures d'hospitalisation
 - ou à une saturation du 15
 
-![](Images/Covid19_hosp_urgence_20200330.png)
+![](Images/Covid19_hosp_urgence_20200331.png)
 
