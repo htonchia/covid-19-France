@@ -10,7 +10,8 @@ Les données montrent une diminution des hospitalisations le week-end suivie d'u
 Le plateau peut être du :
 - à un fléchissement de l'épidémie en raison du confinement
 - à un changement des procédures d'hospitalisation
-- ou à une saturation du 15
+- à une saturation du 15
+- aux premiers effets du confinement
 
-![](Images/Covid19_hosp_urgence_20200331.png)
+![](Images/Covid19_hosp_urgence_20200402.png)
 
