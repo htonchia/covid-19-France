@@ -14,5 +14,5 @@ Le plateau peut être du :
 
 ![](Images/Covid19_hosp_urgence_20200402.png)
 
-Les données d'hospitalisations (après passage aux urgences pour suspicion de COVID-19) des régions les plus touchées, Ile de France, Grand Est, Bourgogne Franche Comté et Corse, présentent une évolution tout à fait similaire à celles des régions les moins touchées, avec une amplitude plus importante. Comme il n'y a pas de saturation du 15 dans les régions les moins touchées, cette hypothèse serait à écartée.
+Les données d'hospitalisations (après passage aux urgences pour suspicion de COVID-19) des régions les plus touchées, Ile de France, Grand Est, Bourgogne Franche Comté et Corse, présentent une évolution tout à fait similaire à celles des régions les moins touchées, avec une amplitude plus importante. Comme il n'y a pas de saturation du 15 dans les régions les moins touchées, cette hypothèse serait à écarter.
 ![](Images/Covid19_hosp_urgence_regions.png)
