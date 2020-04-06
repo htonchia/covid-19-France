@@ -20,7 +20,7 @@ Les données d'hospitalisations (après passage aux urgences pour suspicion de C
 ## Comparaison des hospitalisations après passage aux urgences et décès 5 jours plus tard pour COVID-19
 
 ### Données
-Les données ont été lissées et un déficit de décès les dimanche avec un rattrapage le lundi a été lissé.
+Les données ont été lissées et un déficit de décès les dimanches avec un rattrapage le lundi a été lissé.
 Les valeurs sont donc très légèrement différentes des valeurs issues des fichiers.
 
 Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidients 5 jours plus tard.
