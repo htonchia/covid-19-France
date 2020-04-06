@@ -14,7 +14,7 @@ Les données ont été **lissées** et notamment **le déficit de décès les di
 Les valeurs sont donc légèrement différentes des valeurs issues des fichiers.
 
 ### Résultat
-Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidients 5 jours plus tard.
+Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidiens 5 jours plus tard.
 On notera que le nombre des hospitalisations est divisé par 4,4 pour une meilleure comparaison des courbes.
 
 ![](Images/Covid19FranceHospDc.png)
