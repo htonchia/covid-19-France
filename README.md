@@ -23,6 +23,8 @@ Les données d'hospitalisations (après passage aux urgences pour suspicion de C
 Les données ont été lissées et un déficit de décès les dimanches avec un rattrapage le lundi a été lissé.
 Les valeurs sont donc très légèrement différentes des valeurs issues des fichiers.
 
-Sur la France entière, les courbes montrent actuellement une corrélation générale entre les décès quotidiens et les hospitalisations après passage aux urgences pour suspicion de COVID-19 5 jours plus tôt.
+Sur la France entière, les courbes montrent actuellement une corrélation générale entre les décès quotidiens et les hospitalisations après passage aux urgences pour suspicion de COVID-19 6 jours plus tôt.
+
+Nous savons qu'il y a des retards d'enregistrement des décès le week-end, ce qui peut expliquer le rebond.
 
 ![](Images/Covid19FranceHospDc.png)
