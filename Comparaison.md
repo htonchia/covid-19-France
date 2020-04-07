@@ -1,4 +1,4 @@
-## Comparaison des hospitalisations après passage aux urgences et décès 5 jours plus tard pour COVID-19
+## Comparaison des hospitalisations après passage aux urgences et décès 6 jours plus tard pour COVID-19
 
 ### Données
 Données provenant de data.gouv.fr :
