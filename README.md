@@ -28,3 +28,5 @@ Sur la France entière, les courbes montrent actuellement une corrélation gén�
 Nous savons qu'il y a des retards d'enregistrement des décès le week-end, ce qui peut expliquer le rebond.
 
 ![](Images/Covid19FranceHospDc.png)
+
+Plus d'info : https://github.com/htonchia/covid-19-France/blob/master/Comparaison.md
