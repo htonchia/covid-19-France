@@ -13,7 +13,7 @@ Néanmoins, le déficit de décès de ce dernier week-end a été suivi d'un reb
 Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidiens 6 jours plus tard.
 On notera que le nombre des hospitalisations est divisé par 4,2 pour une meilleure comparaison des courbes.
 
-![](Images/Covid19FranceHospDc.png)
+![](Images/huFRdc_False.png)
 
 ### Resultats régions en tension et autres régions par 100 000 habitants
 ## Information sur les entrées en réa
