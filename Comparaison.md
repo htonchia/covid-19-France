@@ -37,13 +37,16 @@ On notera que le nombre des hospitalisations est divisé par 4,2 pour une meille
 ### Autres régions (données lissées)
 ![](Images/huR24285253757693dc_100000.png)
 
-## Résultats par départements agrégé par surmortalité
+## Résultats par départements agrégés par surmortalité
 La surmortalité provient de l'insee.
 Les courbes suivantes permettent de suivre l'évolution des décès, des hospitalisations et des entrées en réanimation par le type de surmortalité des départements.
 Quelque que soit la vigueur de la circulation de l'épidémie, les décès présentent un pic le 7 avril, trois semaines après le début du confinement.
 
-### Très forte surmortalité (>40 %)
-![](Images/hutres%20hautedc_100000.png)
+### Très forte surmortalité 1ère vague(>40 %)
+![](Images/hutres_haute_1erdc_100000.png)
+
+### Très forte surmortalité 2e vague(>40 %)
+![](Images/hutres_haute_2nddc_100000.png)
 
 ### Forte surmortalité
 ![](Images/huhautedc_100000.png)
@@ -56,3 +59,7 @@ Quelque que soit la vigueur de la circulation de l'épidémie, les décès prés
 
 ### Evolution négative
 ![](Images/hutres%20faibledc_100000.png)
+
+### Comparaison des décès par départements groupés par surmortalite
+![](Images/dsdc_100000.png)
+
