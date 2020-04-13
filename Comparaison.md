@@ -11,8 +11,10 @@ https://www.insee.fr/fr/information/4470857#graphique-figure2_radio1
 Nombre d'habitants par département
 https://insee.fr/fr/statistiques/4277596?sommaire=4318291
 
-Les données ont été **lissées** et notamment **le déficit de décès les dimanches** avec un rattrapage les lundis. 
+Les données ont été **lissées**. 
 Les valeurs sont donc légèrement différentes des valeurs issues des fichiers.
+Certaines erreurs sont corrigées à la main, notamment lorsque les décès du jour sont négatifs.
+
 
 ### Information sur les entrées en réa
 
@@ -41,25 +43,26 @@ On notera que le nombre des hospitalisations est divisé par 4,2 pour une meille
 La surmortalité provient de l'insee.
 Les courbes suivantes permettent de suivre l'évolution des décès, des hospitalisations et des entrées en réanimation par le type de surmortalité des départements.
 Quelque que soit la vigueur de la circulation de l'épidémie, les décès présentent un pic le 7 avril, trois semaines après le début du confinement.
+La dernière courbe doublement lissée (Kalman + spline) présente toujours une ondulation avec des bas le week-end réputé provenir de retards d'enregistrement.
 
 ### Très forte surmortalité 1ère vague(>40 %)
-![](Images/hutres_haute_1erdc_100000.png)
+![](Images/hutres_haute_1erfkdc_100000.png)
 
 ### Très forte surmortalité 2e vague(>40 %)
-![](Images/hutres_haute_2nddc_100000.png)
+![](Images/hutres_haute_2ndfkdc_100000.png)
 
 ### Forte surmortalité
-![](Images/huhautedc_100000.png)
+![](Images/huhautefkdc_100000.png)
 
 ### Surmortalité moyenne
-![](Images/humoyennedc_100000.png)
+![](Images/humoyennefkdc_100000.png)
 
 ### Surmortalité faible
-![](Images/hufaibledc_100000.png)
+![](Images/hufaiblefkdc_100000.png)
 
 ### Evolution négative
-![](Images/hutres%20faibledc_100000.png)
+![](Images/hutres_faiblefkdc_100000.png)
 
 ### Comparaison des décès par départements groupés par surmortalite
-![](Images/dsdc_100000.png)
+![](Images/dsfkfsdc_100000.png)
 
