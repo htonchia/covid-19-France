@@ -45,6 +45,8 @@ Les courbes suivantes permettent de suivre l'évolution des décès, des hospita
 Quelque que soit la vigueur de la circulation de l'épidémie, les décès présentent un pic le 7 avril, trois semaines après le début du confinement.
 La dernière courbe doublement lissée (Kalman + spline) présente toujours une ondulation avec des bas le week-end réputés provenir de retards d'enregistrement, notamment pour le long week-end de Paques (source directeur général de la santé).
 
+**Toutes les courbes sont lissées, sans que cela n'efface complètement les effets week-end.**
+
 ### Très forte surmortalité 1ère vague(>40 %)
 ![](Images/hutres_haute_1erfkdc_100000.png)
 
