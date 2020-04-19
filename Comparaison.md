@@ -42,6 +42,7 @@ Ile de France (IDF), Bourgogne Franche Comté (BFC), Hauts de France (HF), Grand
 
 ### Autres régions (données lissées)
 La France moins les régions citées.
+
 ![](Images/huR24285253757693dc_100000.png)
 
 ## Résultats par départements agrégés par surmortalité
