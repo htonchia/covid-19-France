@@ -24,7 +24,7 @@ Avec un nombre d'habitants similaire et un nombre de décès à peine supérieur
 
 Sachant que les personnes plus âgées, au delà de 79 ans sont plus rarement réanimatoires, il aurait été intéressant de comparer les âges des personnes admises en réanimation, mais les chiffres disponibles sont disponibles uniquement par région.
 
-D'après les données de l'Insee la Seine-Saint-Denis est plus jeune que les Hauts-de-Seine ce qui est contradictoire avec un nombre de personnes en réa plus faible en Seine-Saint-Denis. L'âge n'est pas le seul facteur de risque pris en compte pour accéder en réa. Normalement les lits de réanimation en Ile de France n'ont jamais refusé personne, mais est-ce que les critères ont été durcis pendant un temps ? 
+D'après les données de l'Insee la Seine-Saint-Denis est plus jeune que les Hauts-de-Seine ce qui est contradictoire avec un nombre de personnes en réa plus faible en Seine-Saint-Denis. L'âge n'est pas le seul facteur de risque pris en compte pour accéder en réa. Normalement les lits de réanimation en Ile de France n'ont jamais refusé personne, il faut donc en déduire que les personnes ont été envoyées en rea dans les autres départements. Ceci résulterait d'un sous-équipement hospitalier de la Seine-Saint-Denis.
 
 #### Ages en Seine-Saint-Denis
 ![](Images/pieageinseeD93.png)
