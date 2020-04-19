@@ -34,23 +34,29 @@ On notera que le nombre des hospitalisations est divisé par 4,2 pour une meille
 ## Resultats régions en tension et autres régions par 100 000 habitants
 
 ### Régions en tension (données lissées)
+Ile de France (IDF), Bourgogne Franche Comté (BFC), Hauts de France (HF), Grand Est (GE), Auvergne Rhône Alpes (RA), Corse (CO).
 ![](Images/huR112732448494dc_100000.png)
 
 ### Autres régions (données lissées)
+La France moins les régions citées.
 ![](Images/huR24285253757693dc_100000.png)
 
 ## Résultats par départements agrégés par surmortalité
-La surmortalité provient de l'insee.
+La surmortalité provient de l'Insee.
+Il s'agit de la surmortalité par département entre le 1er et le 30 mars 2020 par rapport à la même période de 2019 calculées par l'Insee.
+![](Images/INSEEsurmortalite30mars.png)
+
 Les courbes suivantes permettent de suivre l'évolution des décès, des hospitalisations et des entrées en réanimation par le type de surmortalité des départements.
 Quelque que soit la vigueur de la circulation de l'épidémie, les décès présentent un pic le 7 avril, trois semaines après le début du confinement.
 La dernière courbe doublement lissée (Kalman + spline) présente toujours une ondulation avec des bas le week-end réputés provenir de retards d'enregistrement, notamment pour le long week-end de Paques (source directeur général de la santé).
 
 **Toutes les courbes sont lissées, sans que cela n'efface complètement les effets week-end.**
 
-### Très forte surmortalité 1ère vague(>40 %)
+### Très forte surmortalité 1ère vague (>40 %)
+Il s'agit des premiers départements touchés, l'Oise, le Bas-Rhin et les Vosges.
 ![](Images/hutres_haute_1erfkdc_100000.png)
 
-### Très forte surmortalité 2e vague(>40 %)
+### Très forte surmortalité 2e vague (>40 %)
 ![](Images/hutres_haute_2ndfkdc_100000.png)
 
 ### Forte surmortalité
