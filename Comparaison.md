@@ -23,11 +23,13 @@ Les régions en tension comprennent l'Ile de France, les Hauts de France, la Bou
 
 Les entrées en réanimation présentent un pic autour du 1er avril, aussi bien pour les régions en tension que les autres, sachant que le confinement a commencé le 17 mars, soit 15 jours plus tôt.
 
-Attention, tous les patients ne rentrent pas en réanimation, le nombre de décès peut très bien être supérieur au nombre des personnes entrées en réanimation.
+Comme tous les patients ne rentrent pas en réanimation, le nombre de décès peut très bien être supérieur au nombre des personnes entrées en réanimation.
+
+On notera que l'échelle des décès et des entrées en réanimation est à gauche et que l'échelle du nombre d'hospitalisation est à droite pour tenir compte qu'il y a environ quatre fois plus d'hospitalisations que de décès. Le rapport entre les échelles est constant sur tous les tracés. 
 
 ### Résultat France
 Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidiens 6 jours plus tard.
-On notera que le nombre des hospitalisations est divisé par 4,2 pour une meilleure comparaison des courbes.
+
 
 ![](Images/huFRdc_False.png)
 
@@ -35,6 +37,7 @@ On notera que le nombre des hospitalisations est divisé par 4,2 pour une meille
 
 ### Régions en tension (données lissées)
 Ile de France (IDF), Bourgogne Franche Comté (BFC), Hauts de France (HF), Grand Est (GE), Auvergne Rhône Alpes (RA), Corse (CO).
+
 ![](Images/huR112732448494dc_100000.png)
 
 ### Autres régions (données lissées)
@@ -43,8 +46,12 @@ La France moins les régions citées.
 
 ## Résultats par départements agrégés par surmortalité
 La surmortalité provient de l'Insee.
-Il s'agit de la surmortalité par département entre le 1er et le 30 mars 2020 par rapport à la même période de 2019 calculées par l'Insee.
+Il s'agit de la surmortalité par département entre le 1er et le 30 mars 2020 par rapport à la même période de 2019 calculées par l'Insee pour les très hautes surmortalités 1 et 2.
 ![](Images/INSEEsurmortalite30mars.png)
+
+La très haute surmortalité 3 n'est apparue que sur la période du 1er mars au 6 avril dans les calculs de l'Insee.
+Pour les autres, haute à très faible, les départements ont été classés par la surmortalité calculée au 6 avril :
+![](Images/INSEEsurmortalite6avril.png)
 
 Les courbes suivantes permettent de suivre l'évolution des décès, des hospitalisations et des entrées en réanimation par le type de surmortalité des départements.
 Quelque que soit la vigueur de la circulation de l'épidémie, les décès présentent un pic le 7 avril, trois semaines après le début du confinement.
@@ -58,6 +65,10 @@ Il s'agit des premiers départements touchés, l'Oise, le Bas-Rhin et les Vosges
 
 ### Très forte surmortalité 2e vague (>40 %)
 ![](Images/hutres_haute_2ndfkdc_100000.png)
+
+### Très forte surmortalité au 6 avril (>40 %)
+Il s'agit principalement du reste de l'Ile de France et de département du Grand Est non touché par la première vague.
+![](Images/hutres_haute_3efkdc_100000.png)
 
 ### Forte surmortalité
 ![](Images/huhautefkdc_100000.png)
