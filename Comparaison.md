@@ -1,4 +1,4 @@
-## Comparaison des hospitalisations après passage aux urgences et décès 6 jours plus tard pour COVID-19
+## Comparaison des hospitalisations après passage aux urgences et décès quelques jours plus tard pour COVID-19
 
 ### Données
 Données provenant de data.gouv.fr :
@@ -28,7 +28,7 @@ Comme tous les patients ne rentrent pas en réanimation, le nombre de décès pe
 On notera que l'échelle des décès et des entrées en réanimation est à gauche et que l'échelle du nombre d'hospitalisation est à droite pour tenir compte qu'il y a environ quatre fois plus d'hospitalisations que de décès. Le rapport entre les échelles est constant sur tous les tracés. 
 
 ### Résultat France
-Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidiens 6 jours plus tard.
+Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidiens 9 jours plus tard.
 
 
 ![](Images/huFRdc_False.png)
