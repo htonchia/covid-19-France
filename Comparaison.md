@@ -27,8 +27,20 @@ Comme tous les patients ne rentrent pas en réanimation, le nombre de décès pe
 
 On notera que l'échelle des décès et des entrées en réanimation est à gauche et que l'échelle du nombre d'hospitalisation est à droite pour tenir compte qu'il y a environ quatre fois plus d'hospitalisations que de décès. Le rapport entre les échelles est constant sur tous les tracés. 
 
+### Sortie de réanimation (IDF)
+
+La PHP a étudié en interne le profil des patients hospitalisés (étude non publique, résultats disponibles dans un article des Echos).
+Les patients restent longtemps en réanimation et si la durée moyenne du séjour est d'une semaine, plus de 50% restent plus de 10 jours en réanimation. Le taux de décès a été calculé à 30%.
+
+On notera, notamment dans les régions en tension dont l'Ile de France, que le nombre de décès et le nombre de personnes admises en réa est très voisin. On peut en déduire que 30 % des décès hospitaliers ont lieu en réanimation et la majorité d'entre eux dans des services non réanimatoires. Les personnes en réanimation sont plus jeunes que les autres comme on le voit sur les camemberts de [l'Ile de France.](https://github.com/htonchia/covid-19-France/blob/master/Hauts-de-Seine_Seine_Saint_Denis.md#ages-des-personnes-admises-en-rea-en-ile-de-france)
+
+
+[Article des echos](https://www.lesechos.fr/economie-france/social/un-passage-en-reanimation-tres-long-pour-les-malades-du-coronavirus-1197254)
+
+
+
 ### Résultat France
-Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidiens 9 jours plus tard.
+Sur la France entière, les courbes montrent actuellement une corrélation générale entre les hospitalisations après passage aux urgences pour suspicion de COVID-19 et les décès quotidiens quelques jours plus tard.
 
 
 ![](Images/huFRdc_False.png)
