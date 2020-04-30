@@ -74,27 +74,27 @@ La dernière courbe doublement lissée (Kalman + spline) présente toujours une 
 
 ### Très forte surmortalité 1ère vague (>40 %)
 Il s'agit des premiers départements touchés, l'Oise, le Bas-Rhin et les Vosges.
-![](Images/hutres_haute_1erfkdc_100000.png)
+![](Images/hutres_haute_1erfkdc_1000000.png)
 
 ### Très forte surmortalité 2e vague (>40 %)
-![](Images/hutres_haute_2ndfkdc_100000.png)
+![](Images/hutres_haute_2ndfkdc_1000000.png)
 
 ### Très forte surmortalité au 6 avril (>40 %)
 Il s'agit principalement du reste de l'Ile de France et de département du Grand Est non touché par la première vague.
-![](Images/hutres_haute_3efkdc_100000.png)
+![](Images/hutres_haute_3efkdc_1000000.png)
 
 ### Forte surmortalité
-![](Images/huhautefkdc_100000.png)
+![](Images/huhautefkdc_1000000.png)
 
 ### Surmortalité moyenne
-![](Images/humoyennefkdc_100000.png)
+![](Images/humoyennefkdc_1000000.png)
 
 ### Surmortalité faible
-![](Images/hufaiblefkdc_100000.png)
+![](Images/hufaiblefkdc_1000000.png)
 
 ### Evolution négative
-![](Images/hutres_faiblefkdc_100000.png)
+![](Images/hutres_faiblefkdc_1000000.png)
 
 ### Comparaison des décès par départements groupés par surmortalite
-![](Images/dsfkfsdc_100000.png)
+![](Images/dsfkfsdc_1000000.png)
 
