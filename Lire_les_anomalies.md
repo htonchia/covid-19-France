@@ -68,7 +68,7 @@ Le changement d'échelle de couleur montre d'autres anomalies.
 Le Tarn-et-Garonne est en anomalie avec 202 hospitalisations pour 4 décès. Les hospitalisations se sont cependant arrêtées le 10 avril.
 
 La Haute-Loire présente une anomalie inverse avec 5 personnes hospitalisées après passage aux urgences pour suspicion de COVID-19, 7 entrées en réanimation et 11 décès. 
-Les patients circulent entre les hopitaux d'une même région et parfois entre les régions et il est difficile de juger un département seul. 
+Les patients circulent entre les hopitaux d'une même région et parfois entre les régions et il est difficile de juger un département seul. C'est une explication possible, mais probablement pas la bonne.
 
 ## Conclusion
 Il vaut mieux partager des données avec des anomalies et même des erreurs, les détecter, interroger les sources et les corriger pour prendre les bonnes décisions que de ne rien faire. 
