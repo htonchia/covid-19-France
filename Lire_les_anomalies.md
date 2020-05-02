@@ -49,7 +49,7 @@ La carte des ratios entre ces données par département montre une anomalie rema
 ![](Images/ca_carte_hosp_dc200501.png)
 
 Il s'agit de la Haute-Corse.
-La Haute-Corse a déploré 8 décès et aurait du avoir 30 hospitalisations, elle en a compté 1626.
+La Haute-Corse a déploré 8 décès et aurait du avoir 30 hospitalisations, elle en a compté 1626. Les hospitalisations continuent encore au 30 avril à un ryhtme élevé.
 Plusieurs explications sont possibles :
 - les gens sont plus jeunes et donc guérissent mieux
 - les personnes hospitalisées ne présentent pas des cas graves
@@ -57,6 +57,18 @@ Plusieurs explications sont possibles :
 - une erreur dans l'enregistrement des données
 - une autre explication
 
+Un communiqué du centre hospitalier de Bastia laisse entendre que des données d'une campagne proactive de tests ont été remontées dans les fichiers sans avoir été contrôlées sans toutefois tout expliquer.
+
 Il n'est pas possible d'utiliser cette information sans avoir de plus amples explications de l'anomalie.
 
+Le changement d'échelle de couleur montre d'autres anomalies.
 
+![](Images/ca_carte_hosp_dc200501v2.png)
+
+Le Tarn-et-Garonne est en anomalie avec 202 hospitalisations pour 4 décès. Les hospitalisations se sont cependant arrêtées le 10 avril.
+
+La Haute-Loire présente une anomalie inverse avec 5 personnes hospitalisées après passage aux urgences pour suspicion de COVID-19, 7 entrées en réanimation et 11 décès. 
+Les patients circulent entre les hopitaux d'une même région et parfois entre les régions et il est difficile de juger un département seul. 
+
+## Conclusion
+Il vaut mieux partager des données avec des anomalies et même des erreurs, les détecter, interroger les sources et les corriger pour prendre les bonnes décisions que de ne rien faire. 
