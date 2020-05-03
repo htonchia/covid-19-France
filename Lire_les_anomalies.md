@@ -25,10 +25,13 @@ Il est indispensable de regarder, analyser et croiser les données pour détecte
 
 ## Anomalies sur les entrées en réanimation croisées avec les décès
 
-En général, le nombre d'entrée en réanimation et de décès sont similaires. 
-Au 1er mai, la France comptait 15350 décès hospitaliers lié au COVID-19 et 15953 entrée en réanimation pour COVID-19.
+En général, le nombre d'entrées en réanimation et de décès sont similaires. 
+Au 1er mai, la France comptait 15350 décès hospitaliers lié au COVID-19 et 15953 entrées en réanimation pour COVID-19.
 Tout les écarts entre les décès et les entrées en réanimation signalent des anomalies.
-Voici la carte donnant par département le ratio entre décès et réanimation.
+
+**ATTENTION** : Les nombres des décès hospitaliers et des entrées en réanimation sont similaires et pourtant il y a moins de décès parmi les personnes en réanimation que les celles non en réanimation. D'ailleurs les personnes en réanimation sont nettement plus jeunes que les personnes décédées. Il ne faut pas confondre corrélation et lien de causalité. Le nombre de décès et le nombre de personnes en réanimation sont corrélés car ils sont causés par une cause commune la circulation du virus, mais il ne s'agit pas des mêmes personnes.
+
+Voici la carte donnant par département le ratio entre décès et réanimation. 
 Les départements en anomalie correspondent aux couleurs foncées.  
 
 ![](Images/ca_carte_rea_dc200501.png)
