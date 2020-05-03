@@ -25,10 +25,13 @@ Il est indispensable de regarder, analyser et croiser les données pour détecte
 
 ## Anomalies sur les entrées en réanimation croisées avec les décès
 
-En général, le nombre d'entrée en réanimation et de décès sont similaires. 
-Au 1er mai, la France comptait 15350 décès hospitaliers lié au COVID-19 et 15953 entrée en réanimation pour COVID-19.
+En général, le nombre d'entrées en réanimation et de décès sont similaires. 
+Au 1er mai, la France comptait 15350 décès hospitaliers lié au COVID-19 et 15953 entrées en réanimation pour COVID-19.
 Tout les écarts entre les décès et les entrées en réanimation signalent des anomalies.
-Voici la carte donnant par département le ratio entre décès et réanimation.
+
+**ATTENTION** : Les nombres des décès hospitaliers et des entrées en réanimation sont similaires et pourtant il y a moins de décès parmi les personnes en réanimation que les celles non en réanimation. D'ailleurs les personnes en réanimation sont nettement plus jeunes que les personnes décédées. Il ne faut pas confondre corrélation et lien de causalité. Le nombre de décès et le nombre de personnes en réanimation sont corrélés car ils sont causés par une cause commune la circulation du virus, mais il ne s'agit pas des mêmes personnes.
+
+Voici la carte donnant par département le ratio entre décès et réanimation. 
 Les départements en anomalie correspondent aux couleurs foncées.  
 
 ![](Images/ca_carte_rea_dc200501.png)
@@ -69,6 +72,20 @@ Le Tarn-et-Garonne est en anomalie avec 202 hospitalisations pour 4 décès. Les
 
 La Haute-Loire présente une anomalie inverse avec 5 personnes hospitalisées après passage aux urgences pour suspicion de COVID-19, 7 entrées en réanimation et 11 décès. 
 Les patients circulent entre les hopitaux d'une même région et parfois entre les régions et il est difficile de juger un département seul. C'est une explication possible, mais probablement pas la bonne.
+
+## Anomalies sur la contamination déduite des décès hospitaliers
+
+On peut considérer que les décès hospitaliers sont un bon indicateur de la contamination de la zone.
+
+![](Images/ca_carte_contamination200502.png)
+
+Le Territoire de Belfort présente un nombre de décès important, 151, pour 140 000 habitants. Le département est petit et limitrophe du Haut-Rhin. Les malades sont répartis dans les hopitaux de la région en fonction des places et finalement le nombre de décès hospitaliers n'est pas le nombre de décès des habitants du département.
+
+Il vaut mieux changer l'échelle de couleur pour gommer le biais du Territoire de Belfort. Une autre solution consisterait à sommer le Territoire de Belfort avec le Haut-Rhin.
+
+![](Images/ca_carte_contamination_200502v2.png)
+
+L'indicateur de contamination vaut 8% pour le département de l'Oise, ce qui est proche de l'estimation de 10% présentée par l'Institut Pasteur dans le [communiqué de presse vidéo du 24/04/2020](https://youtu.be/WYlzJ5Mv3bk). Il est important de croiser les sources indépendantes.
 
 ## Conclusion
 Il vaut mieux partager des données avec des anomalies et même des erreurs, les détecter, interroger les sources et les corriger pour prendre les bonnes décisions que de ne rien faire. 
