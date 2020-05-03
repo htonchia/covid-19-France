@@ -82,5 +82,7 @@ Il vaut mieux changer l'échelle de couleur pour gommer le biais du Territoire d
 
 ![](Images/ca_carte_contamination_200502v2.png)
 
+L'indicateur de contamination vaut 8% pour le département de l'Oise, ce qui est proche de l'estimation de 10% présentée par l'Institut Pasteur dans le [communiqué de presse vidéo du 24/04/2020](https://youtu.be/WYlzJ5Mv3bk). Il est important de croiser les sources indépendantes.
+
 ## Conclusion
 Il vaut mieux partager des données avec des anomalies et même des erreurs, les détecter, interroger les sources et les corriger pour prendre les bonnes décisions que de ne rien faire. 
