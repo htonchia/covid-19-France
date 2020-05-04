@@ -41,7 +41,7 @@ A l'autre extrémité de l'échelle, les Vosges déplore 234 décès au 1er mai 
 - une saturation des réanimations ;
 - des décès apparus avant l'enregistrement des entrées en réanimation.
 
-La Seine-Saint-Denis connait aussi une anomalie avec 835 décès pour 616 entrée en réanimation. La cause probable est la saturation des réanimations. Sachant que les patients peuvent être dirigés vers d'autres hopitaux de la région, cela n'implique pas un déficit de soin, mais montre la limite des chiffres départementaux lorsque les patients sont dispatchés à l'extérieur du département. Pour aller plus loin, il faut savoir comment les patients ont circulé entre les hopitaux d'Ile de France lorsque leur situtation s'aggravait. 
+La Seine-Saint-Denis connait aussi une anomalie avec 835 décès pour 616 entrées en réanimation. La cause probable est la saturation des réanimations. Sachant que les patients peuvent être dirigés vers d'autres hopitaux de la région, cela n'implique pas un déficit de soin, mais montre la limite des chiffres départementaux lorsque les patients sont dispatchés à l'extérieur du département. Pour aller plus loin, il faut savoir comment les patients ont circulé entre les hopitaux d'Ile de France lorsque leur situtation s'aggravait. 
 
 ## Anomalies sur les hospitalisations pour suspicion de COVID-19 après passage aux urgences
 
