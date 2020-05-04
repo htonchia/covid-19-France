@@ -71,3 +71,13 @@ der dcmod/j par M     1.4     1.5       1   0.5     0.3    0.5     0.2
 ```
 
 Plus d'info : https://github.com/htonchia/covid-19-France/blob/master/Comparaison.md et notamment les tracés par groupe de départements.
+
+## Comprendre les données et leur anomalies
+
+Les données présentent des anomalies qui causent parfois certaines confusions dans leur interprétation ou de faux espoirs. Une anomalie classique est le défaut d'enregistrement les week-ends et jours fériés comme on le voit ci-dessus.
+
+![](Images/huFRdc_no.png)
+
+[En savoir plus sur les anomalies comme celle de l'image ci-dessous :](https://github.com/htonchia/covid-19-France/blob/master/Lire_les_anomalies.md#covid-19-lire-les-anomalies)
+
+![](Images/ca_carte_hosp_dc200501.png) 
