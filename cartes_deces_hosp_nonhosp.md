@@ -2,6 +2,10 @@
 
 ## Présentation
 
+La comparaison des différentes sources de données disponibles indique une large hausse des décès, au 20 avril 2020, non expliquée par les chiffres officiels des décès lié au COVID-19.
+
+Une analyse détaillée des données des **Hauts-de-Seine** indique que la surmortalité autre que COVID-19 à l'hôpital et EHPAD, donc **non comptabilisée, atteint 60 % de la surmortalité COVID-19 à l'hôpital et EHPAD**.
+
 ### Les données
 
 Données provenant de data.gouv.fr :
