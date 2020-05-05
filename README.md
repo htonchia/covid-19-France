@@ -11,6 +11,15 @@ Autres données :
 
 Ces données sont parfois corrigées d'erreur évidentes, carré de la valeur au lieu de la valeur...
 
+# La surmortalité oubliée
+
+La comparaison des données de l'Insee et de Santé Publique France montre un **écart de 3300 décès au 20 avril 2019**.
+Une partie de la surmortalité observée par l'Insee ne s'explique pas par les chiffres de Santé France.
+
+**Dans les Hauts-de-Seine, la surmortalité inexpliquée atteint 60 % de la surmortalité expliquée par le COVID-19.**
+
+[Présentation des données et résultats](https://github.com/htonchia/covid-19-France/blob/master/cartes_deces_hosp_nonhosp.md)
+
 
 # Modélisation de la mortalité en fonction des passages aux urgences et des entrées en réanimation.
 
