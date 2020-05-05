@@ -40,6 +40,9 @@ Les décès hospitaliers dus au COVID-19 sont fournis dans les jeux de données 
 ## Cartographie
 
 Les données hospitalières comme les données administratives enregistrent les décès au lieu du décès et pas au lieu de résidence.
+La surmortalité est donnée en pourcentage de la mortalité de 2019.
+Une surmortalité de 200 % indique que l'accroissement du nombre de décès en 2020 est le double du nombre de décès en 2019 et donc que le nombre total de décès de 2020 est le triple du nombre total de décès de 2019.
+Une surmortalité négative indique une diminution du nombre de décès en 2020 par rapport à 2019.
 
 ### Surmortalité totale par département
 
