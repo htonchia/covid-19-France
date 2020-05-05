@@ -144,6 +144,8 @@ La rubrique autre couvre notamment les décès dans la famille, au travail, chez
 Les cartes suivantes donnent la surmortalité exprimée en pourcentage de la mortalité 2019 pour les catégories de l'Insee.
 Les décès hospitaliers de Santé Publique France sont retirés des données de décès à l'hôpital de l'Insee pour visualiser la différence.
 
+Il s'agit du département du lieu du décès, pas du département de résidence.
+
 ### Décès hospitaliers Insee moins les décès hospitaliers Santé Publique France
 
 ![](Images/ca_cartedetail_surhospnonC_au_2020-04-20.png)
