@@ -41,7 +41,7 @@ Les décès hospitaliers dus au COVID-19 sont fournis dans les jeux de données 
 
 ## Surmortalité non hospitalière
 
-La surmortalité non hospitalières comprend notamment les décès en ehpad non actuellement disponibles par département.
+La surmortalité non hospitalière comprend notamment les décès en ehpad non actuellement disponibles par département.
 
 ![](Images/ca_carte_surnonhops_au_2020-04-20.png)
 
