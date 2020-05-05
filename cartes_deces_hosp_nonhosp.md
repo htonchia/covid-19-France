@@ -125,3 +125,45 @@ Dans le tableau ci-dessous, on admet que la surmortalité en EHPAD a bien été 
 
 **40 % de la surmortalité des Hauts-de-Seine au 20 avril 2020, soit environ 640 décès, n'est a priori pas attribuée au COVID-19 et serait absente des chiffres officiels.**
 
+## Cartographie détaillée des données de surmortalité de l'Insee
+
+L'Insee fournit des données plus détaillés qui précisent le lieu du décès selon quatre catégories :
+
+- hôpital
+
+- hospice, maison de retraite ou EHPAD
+
+- logement
+
+- voie publique ou autre
+
+- non renseigné.
+
+La rubrique autre couvre notamment les décès dans la famille, au travail, chez des amis...
+
+Les cartes suivantes donnent la surmortalité exprimée en pourcentage de la mortalité 2019 pour les catégories de l'Insee.
+Les décès hospitaliers de Santé Publique France sont retirés des données de décès à l'hôpital de l'Insee pour visualiser la différence.
+
+### Décès hospitaliers Insee moins les décès hospitaliers Santé Publique France
+
+![](Images/ca_cartedetail_surhospnonC_au_2020-04-20.png)
+
+### Décès Insee en hospice, maison de retraite ou EHPAD
+
+![](Images/ca_cartedetail_surhosmar_au_2020-04-20.png)
+
+### Décès Insee au logement
+
+Les Hauts-de-Seine et Paris présentent une anomalie très forte qui mériterait d'être analysée. Est-ce dû à la saturation des hopitaux dans ces deux départements ? Pourquoi les autres départements de la couronne, comme la Seine-saint-Denis et le Val-de-Marne n'ont pas une telle anomalie ?
+
+![](Images/ca_cartedetail_surlogem_au_2020-04-20.png)
+
+### Décès Insee sur la voie publique ou autre
+
+![](Images/ca_cartedetail_surautre_au_2020-04-20.png)
+
+
+### Décès Insee non renseigné
+
+![](Images/ca_cartedetail_surnonrend_au_2020-04-20.png)
+
