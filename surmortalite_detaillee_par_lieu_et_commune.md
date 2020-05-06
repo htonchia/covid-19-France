@@ -59,22 +59,24 @@ A la même date, la mortalité hospitalière et en EHPAD enregistré par Santé 
 La carte de la surmortalité départementale est disponible [ici](cartes_deces_hosp_nonhosp.md#décès-insee-en-hospice-maison-de-retraite-ou-ehpad).
 
 ![](Images/dens_surhosmarcom_.png)
-
+#### _
 Les zooms régionaux permettent de mieux identifier les communes qui présentent une surmortalité.
 
-- [Ile de France](#ile-de-france)
-- [Centre Val de Loire](#Centre-Val-de-Loire)
-- [Bourgogne Franche-Comté](#Bourgogne-Franche-Comté)
-- [Normandie](#Normandie)
-- [Hauts de France](#Hauts-de-France)
-- [Grand Est](#Grand-Est)
-- [Pays de la Loire](#Pays-de-la-Loire)
-- [Bretagne](#Bretagne)
-- [Nouvelle Aquitaine](#Nouvelle-Aquitaine)
-- [Occitanie](#Occitanie)
-- [Auvergne Rhone Alpes](#Auvergne-Rhone-Alpes)
-- [Provence Alpes Côte d'Azur](#Provence-Alpes-Côte-dAzur)
-- [Corse](#Corse)
+- [Ile de France](#ile-de-france-1)
+- [Centre Val de Loire](#Centre-Val-de-Loire-1)
+- [Bourgogne Franche-Comté](#Bourgogne-Franche-Comté-1)
+- [Normandie](#Normandie-1)
+- [Hauts de France](#Hauts-de-France-1)
+- [Grand Est](#Grand-Est-1)
+- [Pays de la Loire](#Pays-de-la-Loire-1)
+- [Bretagne](#Bretagne-1)
+- [Nouvelle Aquitaine](#Nouvelle-Aquitaine-1)
+- [Occitanie](#Occitanie-1)
+- [Auvergne Rhone Alpes](#Auvergne-Rhone-Alpes-1)
+- [Provence Alpes Côte d'Azur](#Provence-Alpes-Côte-dAzur-1)
+- [Corse](#Corse-1)
+
+
 ## Zooms régionaux
 ### Zooms régionaux surmortalité au logement
 #### Ile de France
@@ -120,40 +122,40 @@ Les zooms régionaux permettent de mieux identifier les communes qui présentent
 ### Zooms régionaux surmortalité en hospice, maison de retraite et EHPAD.
 #### Ile de France
 ![](Images/dens_surhosmarcom_11.png)
-[retour](#_)
+[retour](#_-1)
 #### Centre Val de Loire
 ![](Images/dens_surhosmarcom_24.png)
-[retour](#_)
+[retour](#_-1)
 #### Bourgogne Franche-Comté
 ![](Images/dens_surhosmarcom_27.png)
-[retour](#_)
+[retour](#_-1)
 #### Normandie
 ![](Images/dens_surhosmarcom_28.png)
-[retour](#_)
+[retour](#_-1)
 #### Hauts de France
 ![](Images/dens_surhosmarcomm_32.png)
-[retour](#_)
+[retour](#_-1)
 #### Grand Est
 ![](Images/dens_surhosmarcom_44.png)
-[retour](#_)
+[retour](#_-1)
 #### Pays de la Loire
 ![](Images/dens_surhosmarcom_52.png)
-[retour](#_)
+[retour](#_-1)
 #### Bretagne
 ![](Images/dens_surhosmarcom_53.png)
-[retour](#_)
+[retour](#_-1)
 #### Nouvelle Aquitaine
 ![](Images/dens_surhosmarcom_75.png)
-[retour](#_)
+[retour](#_-1)
 #### Occitanie
 ![](Images/dens_surhosmarcom_76.png)
-[retour](#_)
+[retour](#_-1)
 #### Auvergne Rhone Alpes
 ![](Images/dens_surhosmarcom_84.png)
-[retour](#_)
+[retour](#_-1)
 #### Provence Alpes Côte d'Azur
 ![](Images/dens_surhosmarcom_93.png)
-[retour](#_)
+[retour](#_-1)
 #### Corse
 ![](Images/dens_surhosmarcom_94.png)
-[retour](#_)
+[retour](#_-1)
