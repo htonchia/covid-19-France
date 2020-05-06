@@ -23,7 +23,7 @@ La carte de la surmortalité départementale est disponible [ici](cartes_deces_h
 Un tracé au niveau de la commune permet de mieux visualiser la différence entre les Hauts-de-Seine et la Seine-Saint-Denis et de tordre le cou aux idées préconçues sur le lien avec la richesse du département. Le bleu représente les communes dont la mortalité au logement a baissé en 2020 par rapport à 2019. 
 
 ![](Images/dens_surlogemcom_.png)
-
+####  
 Les zooms régionaux permettent de mieux voir les communes qui présentent une surmortalité.
 
 - [Ile de France](#ile-de-france)
