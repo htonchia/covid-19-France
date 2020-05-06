@@ -20,6 +20,14 @@ Une partie de la surmortalité observée par l'Insee ne s'explique pas par les c
 
 [Présentation des données et résultats](https://github.com/htonchia/covid-19-France/blob/master/cartes_deces_hosp_nonhosp.md)
 
+La surmortalité au logement a fait un bon, pour atteindre près de 6000 décès au 20 avril 2020. Elle est présentée sur une [cartographie par commune](https://github.com/htonchia/covid-19-France/blob/master/surmortalite_detaillee_par_lieu_et_commune.md).
+
+Voici le résultat pour l'Ile de France.
+![](https://github.com/htonchia/covid-19-France/blob/master/Images/dens_surlogemcom_11.png)
+
+La surmortalité en EHPAD par commune est présente sur tout le territoire.
+Voici la carte pour la Provence Alpes Côte d'Azur :
+![](https://github.com/htonchia/covid-19-France/blob/master/Images/dens_surhosmarcom_93.png)
 
 # Modélisation de la mortalité en fonction des passages aux urgences et des entrées en réanimation.
 
