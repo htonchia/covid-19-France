@@ -133,7 +133,7 @@ Les zooms régionaux permettent de mieux identifier les communes qui présentent
 ![](Images/dens_surhosmarcom_28.png)
 [retour](#_-1)
 #### Hauts de France
-![](Images/dens_surhosmarcomm_32.png)
+![](Images/dens_surhosmarcom_32.png)
 [retour](#_-1)
 #### Grand Est
 ![](Images/dens_surhosmarcom_44.png)
