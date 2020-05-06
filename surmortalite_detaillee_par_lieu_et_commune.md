@@ -26,7 +26,7 @@ Un tracé au niveau de la commune permet de mieux visualiser la différence entr
 
 Les zooms régionaux permettent de mieux voir les communes qui présentent une surmortalité.
 
-- [Ile de France](master#ile-de-france)
+- [Ile de France](#ile-de-france)
 - Centre Val de Loire
 - Bourgogne Franche-Comté
 - Normandie
