@@ -27,43 +27,18 @@ Un tracé au niveau de la commune permet de mieux visualiser la différence entr
 Les zooms régionaux permettent de mieux voir les communes qui présentent une surmortalité.
 
 - [Ile de France](#ile-de-france)
-- Centre Val de Loire
-- Bourgogne Franche-Comté
-- Normandie
-- Hauts de France
-- Grand Est
-- Pays de la Loire
-- Bretagne
-- Nouvelle Aquitaine
-- Occitanie
-- Auvergne Rhone Alpes
-- Provence Alpes Côte d'Azur
-- Corse
-
-
-[](Images/dens_surlogemcom_24.png)
-
-[](Images/dens_surlogemcom_27.png)
-
-[](Images/dens_surlogemcom_28.png)
-
-[](Images/dens_surlogemcom_32.png)
-
-[](Images/dens_surlogemcom_44.png)
-
-[](Images/dens_surlogemcom_53.png)
-
-[](Images/dens_surlogemcom_53.png)
-
-[](Images/dens_surlogemcom_75.png)
-
-[](Images/dens_surlogemcom_76.png)
-
-[](Images/dens_surlogemcom_84.png)
-
-[](Images/dens_surlogemcom_93.png)
-
-[](Images/dens_surlogemcom_94.png)
+- [Centre Val de Loire](#Centre-Val-de-Loire)
+- [Bourgogne Franche-Comté](#Bourgogne-Franche-Comté)
+- [Normandie](#Normandie)
+- [Hauts de France](#Hauts-de-France)
+- [Grand Est](#Grand-Est)
+- [Pays de la Loire](#Pays-de-la-Loire)
+- [Bretagne](#Bretagne)
+- [Nouvelle Aquitaine](#Nouvelle-Aquitaine)
+- [Occitanie](#Occitanie)
+- [Auvergne Rhone Alpes](#Auvergne-Rhone-Alpes)
+- [Provence Alpes Côte d'Azur](#Provence-Alpes-Côte-d'Azur)
+- [Corse](#Corse)
 
 ### Zooms régionaux surmortalité au logement
 #### Ile de France
