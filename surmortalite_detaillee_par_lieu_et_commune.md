@@ -10,7 +10,7 @@ La faiblesse des valeurs par communes ne permet pas de calculer la variation en 
 ## La surmortalité au logement
 
 Entre 2019 et 2020 sur la période au 1er mars au 20 avril la surmortalité au logement présente les caractéristiques suivantes :
-|                        |  2020 - 2029 |
+|                        |  2020 - 2019 |
 |:-----------------------|-------------:|
 | Surmortalité positive  |        12195 |      
 | Surmortalité negative  |        -6301 |    
