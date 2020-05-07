@@ -6,6 +6,7 @@ L'analyse cartographique par commune est présentées ci-dessous.
 Les données proviennent de l'Insee et ont une quinzaine de jours de retard vis à vis des données hospitalières. Elles permettent cependant de voir des informations absentes des données de Santé Publique France et notamment la localisation de la surmortalité en EHPAD et localisation et le nombre de la surmortalité au logement. 
 
 La faiblesse des valeurs par communes ne permet pas de calculer la variation en pourcentage. Les cartes par communes donnent le différence des décès comptabilisés par l'Insee entre 2019 et 2010 sur la période du 1er mars au 20 avril.
+La cartographie a été mise à jour des données du 7 mai qui comprennent les valeurs jusqu'au 27 avril.
 
 ## La surmortalité au logement
 
