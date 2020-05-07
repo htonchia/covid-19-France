@@ -2,7 +2,7 @@
 
 ## Présentation
 
-La comparaison des différentes sources de données disponibles indique une large hausse des décès, au 20 avril 2020, non expliquée par les chiffres officiels des décès lié au COVID-19.
+La comparaison des différentes sources de données disponibles indique une large hausse des décès, au 20 avril 2020, non expliquée par les chiffres officiels des décès lié au COVID-19. Les cartes ont été mises à jour des données du 7 mai mises à jour au 27 avril 2020.
 
 Une analyse détaillée des données des **Hauts-de-Seine** indique que la surmortalité autre que COVID-19 à l'hôpital et EHPAD, donc **non comptabilisée, atteint 60 % de la surmortalité COVID-19 à l'hôpital et EHPAD**.
 
@@ -46,17 +46,17 @@ Une surmortalité négative indique une diminution du nombre de décès en 2020 
 
 ### Surmortalité totale par département
 
-![](Images/ca_carte_surinsee_au_2020-04-20.png)
+![](Images/ca_carte_surinsee_au_2020-04-27.png)
 
 ### Surmortalité hospitalière due au COVID19 par département
 
-![](Images/ca_carte_surhosp_au_2020-04-20.png)
+![](Images/ca_carte_surhosp_au_2020-04-27.png)
 
 ### Surmortalité non hospitalière
 
 La surmortalité non hospitalière comprend notamment les décès en ehpad non actuellement disponibles par département.
 
-![](Images/ca_carte_surnonhops_au_2020-04-20.png)
+![](Images/ca_carte_surnonhops_au_2020-04-27.png)
 
 ### Observations
 
@@ -148,24 +148,24 @@ Il s'agit du département du lieu du décès, pas du département de résidence.
 
 ### Décès hospitaliers Insee moins les décès hospitaliers Santé Publique France
 
-![](Images/ca_cartedetail_surhospnonC_au_2020-04-20.png)
+![](Images/ca_cartedetail_surhospnonC_au_2020-04-27.png)
 
 ### Décès Insee en hospice, maison de retraite ou EHPAD
 
-![](Images/ca_cartedetail_surhosmar_au_2020-04-20.png)
+![](Images/ca_cartedetail_surhosmar_au_2020-04-27.png)
 
 ### Décès Insee au logement
 
 Les Hauts-de-Seine et Paris présentent une anomalie très forte qui mériterait d'être analysée. Est-ce dû à la saturation des hopitaux dans ces deux départements ? Pourquoi les autres départements de la couronne, comme la Seine-saint-Denis et le Val-de-Marne n'ont pas une telle anomalie ?
 
-![](Images/ca_cartedetail_surlogem_au_2020-04-20.png)
+![](Images/ca_cartedetail_surlogem_au_2020-04-27.png)
 
 ### Décès Insee sur la voie publique ou autre
 
-![](Images/ca_cartedetail_surautre_au_2020-04-20.png)
+![](Images/ca_cartedetail_surautre_au_2020-04-27.png)
 
 
 ### Décès Insee non renseigné
 
-![](Images/ca_cartedetail_surnonrend_au_2020-04-20.png)
+![](Images/ca_cartedetail_surnonrend_au_2020-04-27.png)
 
