@@ -166,6 +166,12 @@ Au bilan, la surmortalité non expliquée est de 585, en baisse en raison de la 
 |:-------------|-------------:|---------------:|--------------:|
 |   2020/2019  |          812 |            445 |           585 | 
 
+## Cartographie détaillée des Hauts-de-Seine surmortalité au logement
+
+![](Images/dens_surlogemcom92_.png)
+
+La surmortalité au logement est marquée dans certaines communes, notamment Asnières-sur-Seine et Neuilly-sur-Seine. 
+A première vue, elle ne semble pas être liée à la pauvreté du département. 
 
 ## Cartographie détaillée des données de surmortalité de l'Insee
 
