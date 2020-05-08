@@ -100,6 +100,19 @@ Décès hospitaliers COVID-19 : 695
 
 Les 695 décès hospitaliers sont loin d'expliquer la hausse de 1726 décès observée sur la période.
 
+### Les chiffres généraux des Hauts-de-Seine au 27 avril 2020
+
+Décès 2019 : 1583
+
+Décès 2020 : 3425
+
+Surmortalité : 1842, soit une hausse de 116 %
+
+Décès hospitaliers COVID-19 : 812
+
+Même si la surmortalité diminue avec le confinement, les 812 décès hospitaliers sont loin d'expliquer la hausse de 1842 décès observée sur la période.
+
+
 ### Les chiffres détaillés des Hauts-de-Seine au 20 avril 2020
 
 |       |   Autres |   HopCli |   HosMar |   Logem |   Non renseigne |
@@ -124,6 +137,35 @@ Dans le tableau ci-dessous, on admet que la surmortalité en EHPAD a bien été 
 
 
 **40 % de la surmortalité des Hauts-de-Seine au 20 avril 2020, soit environ 640 décès, n'est a priori pas attribuée au COVID-19 et serait absente des chiffres officiels.**
+
+### Chiffres détaillés des Hauts-de-Seine au 27 avril 2020
+
+L'Insee a publié ces données le 7 mai.
+
+|                  |   Autres |   HopCli |   HosMar |   Logem |   Non renseigne |   Total |
+|:-----------------|---------:|---------:|---------:|--------:|----------------:|--------:|
+| 2019 2020-04-27  |       28 |     1027 |      139 |     348 |              41 |    1583 |
+| 2020 2020-04-27  |       33 |     1750 |      584 |     885 |             173 |    3425 |
+| delta 2020-04-27 |        5 |      723 |      445 |     537 |             132 |    1842 |
+
+Par rapport aux données précédentes, l'écart entre la surmortalité hospitalière et les décès COVID-19 augmente. Il y a donc maintenant une baisse de 89 décès autres dans les hopitaux et cliniques des Hauts-de-Seine.
+Cela pourrait s'expliquer de différentes façons :
+- Le report de certaines opérations diminue mécaniquement les décès induits, avec éventuellement une augmentation des décès au logement.
+- La diminution des accidents de la route peut induire une diminution des décès à l'hôpital des accidentés.
+- La peur d'aller à l'hôpital de certains qui peut aussi se traduire par des décès au logement.
+- La saturation du 15 et des temps de réponse élevés qui a pu aussi se traduire par des non admissions hospitalières.
+
+Les décès autres présentent toujours la même différence, assez faible, mais positive, contrairement à d'autres départements. Les décès autres comprennent notamment les accidents sur la voie publique et les décès au travail. Le département des Hauts-de-Seine est traversé par plusieurs autoroutes très accidentogènes, notamment l'A86, l'A6 et l'A10.
+
+Les décès en hospices, maisons de retraite et EHPAD dont explosé à presque 4 fois plus. Ils marquent un ralentissement sur la dernière semaine.
+
+Au bilan, la surmortalité non expliquée est de 585, en baisse en raison de la baisse de la surmortalité hospitalière par rapport au décès hospitaliers liés au COVID-19 d'après Santé Publique France. Elle est toujours très importante, et du même ordre de grandeur que la surmortalité hospitalières.
+
+
+| Surmortalite | hop COVID-19 | EHPAD          | Non expliquée |
+|:-------------|-------------:|---------------:|--------------:|
+|   2020/2019  |          812 |            445 |           585 | 
+
 
 ## Cartographie détaillée des données de surmortalité de l'Insee
 
