@@ -175,6 +175,14 @@ En ouvrant [l'image](https://raw.githubusercontent.com/htonchia//covid-19-France
 La surmortalité au logement est marquée dans certaines communes, notamment Asnières-sur-Seine et Neuilly-sur-Seine. 
 A première vue, elle ne semble pas être liée à la pauvreté du département. 
 
+### Cartographie détaillée des Hauts-de-Seine surmortalité en hospice, maison de retraite et EHPAD
+
+En ouvrant [l'image](https://raw.githubusercontent.com/htonchia//covid-19-France/master/Images/dens_surhosmarcom92_.svg) dans un browser compatible, vous pourrez lire le nom de la commune en la survolant à la souris et zoomer l'image.
+
+![](Images/dens_surhosmarcom92_.svg)
+
+
+
 ## Cartographie détaillée des données de surmortalité de l'Insee
 
 L'Insee fournit des données plus détaillés qui précisent le lieu du décès selon quatre catégories :
