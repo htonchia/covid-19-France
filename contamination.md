@@ -17,13 +17,7 @@ La valeur sur la France entière, sans les décès au domicile, est de 5%, elle 
 Cependant, cette hausse est plus importante sur certains départements en tension. Ainsi le taux des Hauts-de-Seine passe de 12% à 18% et celui de Paris passe de 15% à 20%.
 En raison du confinement la majorité des personnes contaminées ne devraient plus être contagieuses. 
 
-Une version "interactive" des cartes affichent le nom du département et la valeur de la contamination. Elles sont disponibles par les liens fournis.
-
-## Estimation de la contamination d'après les données hospitalières seules
-
-[lien carte interactive pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod.svg) 
-
-![](Images/ca_carte_contamination_mod.png)
+Une version "interactive" des cartes affichent le nom du département et la valeur de la contamination au survol de la souris. Elles sont disponibles par les liens fournis.
 
 ## Estimation de la contamination d'après les données hospitalières complétées des données de la surmortalité au logement.
 
@@ -31,13 +25,19 @@ La surmortalité au logement est calculée d'après les données de l'Insee disp
 
 Seule la surmortalité positive a été prise en compte.
 
-[lien carte interactive pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod_logem.png)
+[lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod_logem.png)
 
 ![](Images/ca_carte_contamination_mod_logem.png)
 
+## Estimation de la contamination d'après les données hospitalières seules
+
+[lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod.svg) 
+
+![](Images/ca_carte_contamination_mod.png)
+
 # Conclusion
 
-Même si la France est encore loin de ce que l'on appelle l'immunité collective, c'est à dire d'un taux de contamination tel que l'épidémie s'arrête d'elle même,  on ne peut pas ignorer les décès au logement pour évaluer la circulation du virus et le taux de contamination des différents territoires. 
+Même si la France est encore loin de l'immunité collective, c'est à dire du taux de contamination auquel l'épidémie s'arrête d'elle même,  on doit prendre en compte les décès au logement pour évaluer la circulation du virus et le taux de contamination des différents territoires. 
 
 
 
