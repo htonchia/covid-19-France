@@ -63,6 +63,6 @@ La circulation correspond à la vitesse à laquelle augmente la contamination. L
 
 Même si la France est encore loin de l'immunité collective, c'est à dire du taux de contamination auquel l'épidémie s'arrête d'elle même,  on doit prendre en compte les décès au logement pour évaluer la circulation du virus et le taux de contamination des différents territoires. 
 
-
+Au 9 mai, l'Île de France, très touchée, présente une forte contamination et la circulation, encore très active, semble enfin marquer le pas, plus que dans d'autres départements.  
 
 
