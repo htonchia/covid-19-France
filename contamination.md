@@ -42,7 +42,9 @@ La surmortalité au logement est calculée d'après les données de l'Insee disp
 
 Seule la surmortalité positive a été prise en compte.
 
-[lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod_logem.png)
+La contamination est sous-estimée dans les premiers départements touchés, notamment le Grand-Est car les données n'ont pas été enregistrées par Santé Publique France et ne sont pas disponibles. Il faut probablement rajouter quelques pourcent.
+
+[lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod_logem.svg)
 
 ![](Images/ca_carte_contamination_mod_logem.png)
 
@@ -58,6 +60,13 @@ Seule la surmortalité positive a été prise en compte.
 La circulation correspond à la vitesse à laquelle augmente la contamination. Les données de surmortalité au logement, avec leur quinze jours de retard sont trop anciennes pour estimer la circulation.
 
 ![](Images/ca_carte_indicateur_cir.png)
+
+Au 9 mai 2020, le département de l'Aisne présentait un indicateur de circulation bien supérieur à celui de la Seine-Saint-Denis. Pourquoi ? 
+
+Les données des départements de l'Aisne et de la Seine-Saint-Denis confirment que les entrées en réanimation et les hospitalisations pour suspiction de COVID-19 après passage aux urgences sont supérieures dans l'Aisne par rapport à la Seine-Saint-Denis le 9 mai 2020. C'est ce que représente la carte de l'indicateur de circulation. Les courbes sont normalisées à 1 M d'habitants afin d'être comparables.
+
+![](Images/hupSDDAisne1e6fkdc_1000000.png)
+
 
 ## Attention aux anomalies
 
