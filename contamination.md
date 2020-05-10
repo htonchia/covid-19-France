@@ -1,5 +1,22 @@
 # Contamination
 
+## L'épidémie est comme un feu
+
+Pour se propager l'épidémie est comme un feu. Elle démarre lorsque des braises enflamment la paille qui allume le bois.
+
+Les braises sont les personnes qui portent le virus, la paille les personnes à risque et le bois les personnes qui vont transporter le virus sous forme d'une braise qui va s'éteindre comme mouillée. Les personnes guéries seraient comme du bois mouillés qui a du mal à prendre feu. 
+
+L'immunité collective fonctionne lorsque les personnes guéries n'attrapent pas la maladie une seconde fois et qu'elles sont suffisament nombreuses pour empêcher à l'épidémie de se propager.
+
+La contamination mesure le pourcentage de bois mouillé dans la population et la circulation le nombre de braise.
+La paille, donc les personnes à risques, sont présentent partout. 
+
+A nombre de braise égal, un feu a plus de chance de se propager là où le bois est sec que là où il y a beaucoup de bois mouillé. 
+Au 9 mai, les données des urgences montrent qu'il y a plus de braise dans les départements les plus contaminés. Les récents clusters de Nouvelle Aquitaine en [Dordogne et dans la Vienne](https://www.ouest-france.fr/sante/virus/coronavirus/coronavirus-deux-foyers-en-nouvelle-aquitaine-dans-la-vienne-et-en-dordogne-6830188) montrent que le virus circule cependant partout et est prêt à enflammer les zones jusqu'ici épargnées. Il est donc important que la paille, c'est à dire les personnes à risque, reste la plus isolée possible pour ne pas s'enflammer sur les braises qui continuent de circuler. 
+ 
+
+## Présentation
+
 On peut estimer le taux de contamination à partir des décès car le nombre de décès est proportionel au nombre de personnes contaminées. 
 Si on estime que la létalité est de 0.5 % c'est à dire que pour 1000 personnes infectées 5 décèdent, si on déplore 5 décès alors on en déduit que 1000 personnes ont été contaminées.
 
@@ -34,6 +51,13 @@ Seule la surmortalité positive a été prise en compte.
 [lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod.svg) 
 
 ![](Images/ca_carte_contamination_mod.png)
+
+
+## Estimation de la circulation d'après les données hospitalières seules
+
+La circulation correspond à la vitesse à laquelle augmente la contamination. Les données de surmortalité au logement, avec leur quinze jours de retard sont trop anciennes pour estimer la circulation.
+
+![](Images/ca_carte_indicateur_cir.png)
 
 # Conclusion
 
