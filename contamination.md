@@ -59,6 +59,11 @@ La circulation correspond à la vitesse à laquelle augmente la contamination. L
 
 ![](Images/ca_carte_indicateur_cir.png)
 
+## Attention aux anomalies
+
+Ne pas compter les décès au logement des malades atteints du CODID-19 sous-estime la mesure de la contamination. 
+La mesure du nombre des personnes hospitalisées pour suspiction de COVID-19 après passage aux urgences ne sont pas réalisées de façon identique sur tout le territoire, les hopitaux peuvent drainer des patients sur un territoire plus grand que celui du département où il se trouve comme dans le Territoire de Belfort. Tout cela induit des biais et des anomalies ([en savoir plus](Lire_les_anomalies.md)) qui faussent les résultats. Il faut faire au mieux avec ce que l'on a, être vigilant, traquer les anomalies, interroger le terrain, essayer de fiabiliser les résultats et toujours garder un esprit critique. 
+
 # Conclusion
 
 Même si la France est encore loin de l'immunité collective, c'est à dire du taux de contamination auquel l'épidémie s'arrête d'elle même,  on doit prendre en compte les décès au logement pour évaluer la circulation du virus et le taux de contamination des différents territoires. 
