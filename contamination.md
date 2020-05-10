@@ -59,6 +59,13 @@ La circulation correspond à la vitesse à laquelle augmente la contamination. L
 
 ![](Images/ca_carte_indicateur_cir.png)
 
+Au 9 mai 2020, le département de l'Aisne présentait un indicateur de circulation bien supérieur à celui de la Seine-Saint-Denis. Pourquoi ? 
+
+Les données des départements de l'Aisne et de la Seine-Saint-Denis confirment que les entrées en réanimation et les hospitalisations pour suspiction de COVID-19 après passage aux urgences sont supérieures dans l'Aisne par rapport à la Seine-Saint-Denis le 9 mai 2020. C'est ce que représente la carte de l'indicateur de circulation. 
+
+![](Images/hupSDDAisne1e6fkdc_1000000.png)
+
+
 ## Attention aux anomalies
 
 Ne pas compter les décès au logement des malades atteints du CODID-19 sous-estime la mesure de la contamination. 
