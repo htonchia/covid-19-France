@@ -42,6 +42,8 @@ La surmortalité au logement est calculée d'après les données de l'Insee disp
 
 Seule la surmortalité positive a été prise en compte.
 
+La contamination est sous-estimée dans les premiers départements touchés, notamment le Grand-Est car les données n'ont pas été enregistrées par Santé Publique France et ne sont pas disponibles. Il faut probablement rajouter quelques pourcent.
+
 [lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_contamination_mod_logem.svg)
 
 ![](Images/ca_carte_contamination_mod_logem.png)
