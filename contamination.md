@@ -25,7 +25,7 @@ Mais alors comment compter les décès ?
 Les personnes dans les EHPAD ne circulent pas, elles ne sont donc pas représentatives de la circulation du virus. Les décès hospitaliers sont plus représentatifs.
 Par contre, comme le montre [l'analyse de la surmortalité des Hauts-de-Seine](cartes_deces_hosp_nonhosp.md#analyse-des-données-des-hauts-de-seine), la surmortalité au logement est loin d'être négligeable et dans ce cas est du même ordre de grandeur que la surmortalité hospitalière due au COVID-19.
 
-Les deux cartes suivantes présentent la contamination calculée, non pas à partir des décès mais à partir des entrées en réanimation et des hospitalisations après passage aux urgences pour suspiction de COVID-19, complétée de la surmortalité au logement pour la première. 
+Les deux cartes suivantes présentent la contamination calculée, non pas à partir des décès mais à partir des entrées en réanimation et des hospitalisations après passage aux urgences pour suspicion de COVID-19, complétée de la surmortalité au logement pour la première. 
 
 La létalité a été prise égale à 0,5%. 
 
@@ -63,8 +63,8 @@ La circulation correspond à la vitesse à laquelle augmente la contamination. L
 
 Au 9 mai 2020, le département de l'Aube présentait un indicateur de circulation bien supérieur à celui de la Seine-Saint-Denis. Pourquoi ? 
 
-Les données des départements de l'Aube et de la Seine-Saint-Denis confirment que les entrées en réanimation et les hospitalisations pour suspiction de COVID-19 après passage aux urgences sont supérieures dans l'Aube par rapport à la Seine-Saint-Denis le 9 mai 2020. C'est ce que représente la carte de l'indicateur de circulation. Les courbes sont normalisées à 1 M d'habitants afin d'être comparables.
-L'Aube avec 300 000 habitants est bien moins peuplé que la Seine-Saint-Denis et ses 1.7 M d'habitants. Les données de l'Aube varient plus. Les entrées en réanimation et les hospitalisations ont bien moins décru dans l'Aube que dans la Seine-Saint-Denis. L'Aube a un indicateur de contamination de 10% contre 15% pour la Seine-Saint-Denis. Etant donné la taille du département, un seul cluster pourrait causer cette circulation. Cette valeur de circulation résulte des 7 entrées en réanimation entre le 2 et le 3 mai. Il y a eu aussi en moyenne 3 hospitalisations par jour après passage aux urgences pour suspiscion de COVID-19. 
+Les données des départements de l'Aube et de la Seine-Saint-Denis confirment que les entrées en réanimation et les hospitalisations pour suspicion de COVID-19 après passage aux urgences sont supérieures dans l'Aube par rapport à la Seine-Saint-Denis le 9 mai 2020. C'est ce que représente la carte de l'indicateur de circulation. Les courbes sont normalisées à 1 M d'habitants afin d'être comparables.
+L'Aube avec 300 000 habitants est bien moins peuplé que la Seine-Saint-Denis et ses 1.7 M d'habitants. Les données de l'Aube varient plus. Les entrées en réanimation et les hospitalisations ont bien moins décru dans l'Aube que dans la Seine-Saint-Denis. L'Aube a un indicateur de contamination de 10% contre 15% pour la Seine-Saint-Denis. Etant donné la taille du département, un seul cluster pourrait causer cette circulation. Cette valeur de circulation résulte des 7 entrées en réanimation entre le 2 et le 3 mai. Il y a eu aussi en moyenne 3 hospitalisations par jour après passage aux urgences pour suspicion de COVID-19. 
 Dans le même temps, la Seine-Saint-Denis n'a enregistré que 4 hospitalisations par jour, ce qui est proportionellement beaucoup plus faible. 
 
 ![](Images/hupSDDAube1e6fkdc_1000000.png)
@@ -73,7 +73,7 @@ Dans le même temps, la Seine-Saint-Denis n'a enregistré que 4 hospitalisations
 ## Attention aux anomalies
 
 Ne pas compter les décès au logement des malades atteints du CODID-19 sous-estime la mesure de la contamination. 
-La mesure du nombre des personnes hospitalisées pour suspiction de COVID-19 après passage aux urgences ne sont pas réalisées de façon identique sur tout le territoire, les hopitaux peuvent drainer des patients sur un territoire plus grand que celui du département où il se trouve comme dans le Territoire de Belfort. Tout cela induit des biais et des anomalies ([en savoir plus](Lire_les_anomalies.md)) qui faussent les résultats. Il faut faire au mieux avec ce que l'on a, être vigilant, traquer les anomalies, interroger le terrain, essayer de fiabiliser les résultats et toujours garder un esprit critique. 
+La mesure du nombre des personnes hospitalisées pour suspicion de COVID-19 après passage aux urgences ne sont pas réalisées de façon identique sur tout le territoire, les hopitaux peuvent drainer des patients sur un territoire plus grand que celui du département où il se trouve comme dans le Territoire de Belfort. Tout cela induit des biais et des anomalies ([en savoir plus](Lire_les_anomalies.md)) qui faussent les résultats. Il faut faire au mieux avec ce que l'on a, être vigilant, traquer les anomalies, interroger le terrain, essayer de fiabiliser les résultats et toujours garder un esprit critique. 
 
 # Conclusion
 
