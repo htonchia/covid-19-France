@@ -17,7 +17,7 @@ Au 9 mai, les données des urgences montrent qu'il y a plus de braises dans les 
 
 ## Présentation
 
-On peut estimer le taux de contamination à partir des décès car le nombre de décès est proportionel au nombre de personnes contaminées. 
+On peut estimer le taux de contamination à partir des décès car le nombre de décès est proportionnel au nombre de personnes contaminées. 
 Si on estime que la létalité est de 0.5 % c'est à dire que pour 1000 personnes infectées 5 décèdent, si on déplore 5 décès alors on en déduit que 1000 personnes ont été contaminées.
 
 Mais alors comment compter les décès ?
