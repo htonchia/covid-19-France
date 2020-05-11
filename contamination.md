@@ -6,7 +6,7 @@ Pour se propager l'épidémie est comme un feu. Elle démarre lorsque des braise
 
 Les braises sont les personnes qui portent le virus, la paille les personnes à risque et le bois les personnes qui vont transporter le virus sous forme d'une braise qui va s'éteindre une fois qu'elle est mouillée. Les personnes guéries seraient comme du bois mouillé qui a du mal à prendre feu. 
 
-L'immunité collective fonctionne lorsque les personnes guéries n'attrapent pas la maladie une seconde fois et qu'elles sont suffisament nombreuses pour empêcher l'épidémie de se propager.
+L'immunité collective fonctionne lorsque les personnes guéries n'attrapent pas la maladie une seconde fois et qu'elles sont suffisamment nombreuses pour empêcher l'épidémie de se propager.
 
 La contamination mesure le pourcentage de bois mouillé dans la population et la circulation le nombre de braises.
 La paille, donc les personnes à risque, sont présentent partout. 
