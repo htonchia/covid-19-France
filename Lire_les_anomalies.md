@@ -14,7 +14,7 @@ Cette anomalie, visible sur le tracé ci-dessous, a été confirmée par le dire
 ![](Images/huFRdc_no.png)
 
 ### Anomalies départementales
-Certaines anomalies ne concernent que quelques départements. Sommer les données de plusieurs départments permet d'atténuer ces anomalies. 
+Certaines anomalies ne concernent que quelques départements. Sommer les données de plusieurs départements permet d'atténuer ces anomalies. 
 
 ### Anomalies sur une donnée
 Parfois l'anomalie ne concerne qu'un type de donnée comme les entrées en réanimation. La comparaison de plusieurs données, comme les hospitalisations et les décès avec les entrées en réanimation permet de détecter ce type d'anomalie.
@@ -41,7 +41,7 @@ A l'autre extrémité de l'échelle, les Vosges déplore 234 décès au 1er mai 
 - une saturation des réanimations ;
 - des décès apparus avant l'enregistrement des entrées en réanimation.
 
-La Seine-Saint-Denis connait aussi une anomalie avec 835 décès pour 616 entrées en réanimation. La cause probable est la saturation des réanimations. Sachant que les patients peuvent être dirigés vers d'autres hopitaux de la région, cela n'implique pas un déficit de soin, mais montre la limite des chiffres départementaux lorsque les patients sont dispatchés à l'extérieur du département. Pour aller plus loin, il faut savoir comment les patients ont circulé entre les hopitaux d'Ile de France lorsque leur situtation s'aggravait. 
+La Seine-Saint-Denis connait aussi une anomalie avec 835 décès pour 616 entrées en réanimation. La cause probable est la saturation des réanimations. Sachant que les patients peuvent être dirigés vers d'autres hopitaux de la région, cela n'implique pas un déficit de soin, mais montre la limite des chiffres départementaux lorsque les patients sont dispatchés à l'extérieur du département. Pour aller plus loin, il faut savoir comment les patients ont circulé entre les hopitaux d'Ile de France lorsque leur situation s'aggravait. 
 
 ## Anomalies sur les hospitalisations pour suspicion de COVID-19 après passage aux urgences
 
@@ -52,7 +52,7 @@ La carte des ratios entre ces données par département montre une anomalie rema
 ![](Images/ca_carte_hosp_dc200501.png)
 
 Il s'agit de la Haute-Corse.
-La Haute-Corse a déploré 8 décès et aurait du avoir 30 hospitalisations, elle en a compté 1626. Les hospitalisations continuent encore au 30 avril à un ryhtme élevé.
+La Haute-Corse a déploré 8 décès et aurait du avoir 30 hospitalisations, elle en a compté 1626. Les hospitalisations continuent encore au 30 avril à un rythme élevé.
 Plusieurs explications sont possibles :
 - les gens sont plus jeunes et donc guérissent mieux
 - les personnes hospitalisées ne présentent pas des cas graves
