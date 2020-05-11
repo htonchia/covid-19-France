@@ -65,7 +65,7 @@ Au 9 mai 2020, le département de l'Aube présentait un indicateur de circulatio
 
 Les données des départements de l'Aube et de la Seine-Saint-Denis confirment que les entrées en réanimation et les hospitalisations pour suspicion de COVID-19 après passage aux urgences sont supérieures dans l'Aube par rapport à la Seine-Saint-Denis le 9 mai 2020. C'est ce que représente la carte de l'indicateur de circulation. Les courbes sont normalisées à 1 M d'habitants afin d'être comparables.
 L'Aube avec 300 000 habitants est bien moins peuplé que la Seine-Saint-Denis et ses 1.7 M d'habitants. Les données de l'Aube varient plus. Les entrées en réanimation et les hospitalisations ont bien moins décru dans l'Aube que dans la Seine-Saint-Denis. L'Aube a un indicateur de contamination de 10% contre 15% pour la Seine-Saint-Denis. Etant donné la taille du département, un seul cluster pourrait causer cette circulation. Cette valeur de circulation résulte des 7 entrées en réanimation entre le 2 et le 3 mai. Il y a eu aussi en moyenne 3 hospitalisations par jour après passage aux urgences pour suspicion de COVID-19. 
-Dans le même temps, la Seine-Saint-Denis n'a enregistré que 4 hospitalisations par jour, ce qui est proportionellement beaucoup plus faible. 
+Dans le même temps, la Seine-Saint-Denis n'a enregistré que 4 hospitalisations par jour, ce qui est proportionnellement beaucoup plus faible. 
 
 ![](Images/hupSDDAube1e6fkdc_1000000.png)
 
