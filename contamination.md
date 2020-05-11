@@ -73,7 +73,7 @@ Dans le même temps, la Seine-Saint-Denis n'a enregistré que 4 hospitalisations
 ## Attention aux anomalies
 
 Ne pas compter les décès au logement des malades atteints du CODID-19 sous-estime la mesure de la contamination. 
-La mesure du nombre des personnes hospitalisées pour suspicion de COVID-19 après passage aux urgences ne sont pas réalisées de façon identique sur tout le territoire, les hopitaux peuvent drainer des patients sur un territoire plus grand que celui du département où il se trouve comme dans le Territoire de Belfort. Tout cela induit des biais et des anomalies ([en savoir plus](Lire_les_anomalies.md)) qui faussent les résultats. Il faut faire au mieux avec ce que l'on a, être vigilant, traquer les anomalies, interroger le terrain, essayer de fiabiliser les résultats et toujours garder un esprit critique. 
+Les mesures du nombre des personnes hospitalisées pour suspicion de COVID-19 après passage aux urgences ne sont pas réalisées de façon identique sur tout le territoire, les hopitaux peuvent drainer des patients sur un territoire plus grand que celui du département où il se trouve comme dans le Territoire de Belfort. Tout cela induit des biais et des anomalies ([en savoir plus](Lire_les_anomalies.md)) qui faussent les résultats. Il faut faire au mieux avec ce que l'on a, être vigilant, traquer les anomalies, interroger le terrain, essayer de fiabiliser les résultats et toujours garder un esprit critique. 
 
 # Conclusion
 
