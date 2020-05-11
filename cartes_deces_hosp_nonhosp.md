@@ -2,7 +2,7 @@
 
 ## Présentation
 
-La comparaison des différentes sources de données disponibles indique une large hausse des décès, au 20 avril 2020, non expliquée par les chiffres officiels des décès lié au COVID-19. Les cartes ont été mises à jour des données du 7 mai mises à jour au 27 avril 2020.
+La comparaison des différentes sources de données disponibles indique une large hausse des décès, au 20 avril 2020, non expliquée par les chiffres officiels des décès lié au COVID-19. Les cartes ont été mises à jour des données au 27 avril 2020 publiées le 7 mai .
 
 Une analyse détaillée des données des **Hauts-de-Seine** indique que la surmortalité autre que COVID-19 à l'hôpital et EHPAD, donc **non comptabilisée, atteint 60 % de la surmortalité COVID-19 à l'hôpital et EHPAD**.
 
@@ -33,9 +33,9 @@ La surmortalité rend compte de trois phénomènes :
 
 - le déficit des décès liés au confinement qui dépasse parfois 10% dans les départements peu touchés par le COVID-19 ;
 
-- les décès non hospitaliers dus au COVID-19 qui sont un accroissement par rapport à 2019.
+- les décès non hospitaliers dus au COVID-19 qui sont en hausse par rapport à 2019.
 
-Les décès hospitaliers dus au COVID-19 sont fournis dans les jeux de données de data.gouv.fr. Les autres peuvent être estimés à partir des données de l'insee. Leur somme est la différence entre la hausse de la surmortalité déduite des données de l'insee et les décès hospitaliers.
+Les décès hospitaliers dus au COVID-19 sont fournis dans les jeux de données de data.gouv.fr. Les hausse des décès non hospitaliers est disponibles dans les données de l'Insee. 
 
 ## Cartographie
 
@@ -54,7 +54,7 @@ Une surmortalité négative indique une diminution du nombre de décès en 2020 
 
 ### Surmortalité non hospitalière
 
-La surmortalité non hospitalière comprend notamment les décès en ehpad non actuellement disponibles par département.
+La surmortalité non hospitalière comprend notamment les décès en ehpad. Les décès en ehpad dus au COVID-19 ne sont actuellement pas ventilés par département par Santé Publique France.
 
 ![](Images/ca_carte_surnonhops_au_2020-04-27.png)
 
@@ -66,7 +66,7 @@ La surmortalité non hospitalière comprend notamment les décès en ehpad non a
 
 **La France connait une surmortalité de plus de 3000 décès non actuellement attribués au COVID-19.**
 
-Sur la totalité de la France, la surmortalité non hospitalière COVID-19 est d'environ 11 000 décès au 20/04/2020, alors qu'à la même date les décès attribués au COVID-19 dans les ehpad et ems sont d'environ 7700, soit un excès d'environ **3300** (soit 40% des décès attribués au COVID-19 en ehapd et ems). Ces décès sont plus probablement liés au COVID-19 qu'à une autre cause. Ils peuvent avoir eu lieu en ephad, à domicile ou même à l'hôpital sans être attribué au COVID-19.
+Sur la totalité de la France, la surmortalité non hospitalière COVID-19 est d'environ 11 000 décès au 20/04/2020, alors qu'à la même date les décès attribués au COVID-19 dans les ehpad et ems sont d'environ 7700, soit un excès d'environ **3300** . Ces décès sont plus probablement liés au COVID-19 qu'à une autre cause. Ils peuvent avoir eu lieu en ephad, à domicile ou même à l'hôpital sans être attribué au COVID-19.
 Comme les décès autres ont diminué en raison du confinement, ce nombre de 3300 sous-estime probablement les décès liés au COVID-19 non comptabilisés. 
 Le déficit de mortalité lié au confinement dans les départements les moins touchés atteint 10 %. Avec un déficit de mortalité estimé à 10 % sur la totalité du territoire, la surmortalité lié au COVID-19 serait alors de 11 700 décès, ce qui parait être une fourchette haute.
 
@@ -125,9 +125,9 @@ Avec 695 décès hospitaliers du au COVID-19 et une surmortalité hospitalière 
 
 Malgré une baisse officielle en France des accidents de la route, les décès autres ont légèrement augmenté.
 
-Les décès en hospices, maisons de retraite et EHPAD dont explosé à presque 4 fois plus. 
+Les décès en hospices, maisons de retraite et EHPAD ont explosé à presque 4 fois plus. 
 
-Finalement, entre les décès survenus au logement, ceux non renseignés et les autres, le département des Hauts-de-Seine présente une surmotalité de 642 personnes non attribuée au COVID-19, qui est pourtant du même ordre de grandeur que les décès hospitaliers lié au COVID-19.
+Finalement, entre les décès survenus au logement, ceux non renseignés et les autres, le département des Hauts-de-Seine présente une surmortalité de 642 personnes non attribuée au COVID-19, qui est pourtant du même ordre de grandeur que les décès hospitaliers lié au COVID-19.
 
 Dans le tableau ci-dessous, on admet que la surmortalité en EHPAD a bien été attribuée au COVID-19, même si les informations disponibles ne permettent pas de l'affirmer. Par contre la surmortalité non expliquée est bien là.
 
@@ -152,17 +152,17 @@ Par rapport aux données précédentes, l'écart entre la surmortalité hospital
 Cela pourrait s'expliquer de différentes façons :
 - Le report de certaines opérations diminue mécaniquement les décès induits, avec éventuellement une augmentation des décès au logement.
 - La diminution des accidents de la route peut induire une diminution des décès à l'hôpital des accidentés.
-- La peur d'aller à l'hôpital de certains qui peut aussi se traduire par des décès au logement.
-- La saturation du 15 et des temps de réponse élevés qui a pu aussi se traduire par des non admissions hospitalières.
+- La peur d'aller à l'hôpital de certains peut aussi se traduire par des décès au logement.
+- La saturation du 15 et des temps de réponse élevés a pu aussi se traduire par des non admissions hospitalières.
 
 Les décès autres présentent toujours la même différence, assez faible, mais positive, contrairement à d'autres départements. Les décès autres comprennent notamment les accidents sur la voie publique et les décès au travail. Le département des Hauts-de-Seine est traversé par plusieurs autoroutes très accidentogènes, notamment l'A86, l'A6 et l'A10.
 
-Les décès en hospices, maisons de retraite et EHPAD dont explosé à presque 4 fois plus. Ils marquent un ralentissement sur la dernière semaine.
+Les décès en hospices, maisons de retraite et EHPAD ont explosé à presque 4 fois plus. Ils marquent un ralentissement sur la dernière semaine.
 
-Au bilan, la surmortalité non expliquée est de 585, en baisse en raison de la baisse de la surmortalité hospitalière par rapport au décès hospitaliers liés au COVID-19 d'après Santé Publique France. Elle est toujours très importante, et du même ordre de grandeur que la surmortalité hospitalières.
+Au bilan, la surmortalité non expliquée est de 585, en baisse par rapport à la semaine précédente. Elle est toujours très importante, et du même ordre de grandeur que la surmortalité hospitalières.
 
 
-| Surmortalite | hop COVID-19 | EHPAD          | Non expliquée |
+| Surmortalité | hop COVID-19 | EHPAD          | Non expliquée |
 |:-------------|-------------:|---------------:|--------------:|
 |   2020/2019  |          812 |            445 |           585 | 
 
@@ -214,7 +214,7 @@ Il s'agit du département du lieu du décès, pas du département de résidence.
 
 ### Décès Insee au logement
 
-Les Hauts-de-Seine et Paris présentent une anomalie très forte qui mériterait d'être analysée. Est-ce dû à la saturation des hopitaux dans ces deux départements ? Pourquoi les autres départements de la couronne, comme la Seine-saint-Denis et le Val-de-Marne n'ont pas une telle anomalie ?
+Les Hauts-de-Seine présentent une anomalie très forte qui mériterait d'être analysée. Est-ce dû à la saturation des hopitaux ? Pourquoi l'anomalie n'est pas la même sur Paris et tous les départements de la couronne ?
 
 ![](Images/ca_cartedetail_surlogem_au_2020-04-27.png)
 

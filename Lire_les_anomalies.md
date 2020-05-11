@@ -14,34 +14,34 @@ Cette anomalie, visible sur le tracé ci-dessous, a été confirmée par le dire
 ![](Images/huFRdc_no.png)
 
 ### Anomalies départementales
-Certaines anomalies ne concernent que quelques départements. Sommer les données de plusieurs départments permet d'atténuer ces anomalies. 
+Certaines anomalies ne concernent que quelques départements. Sommer les données de plusieurs départements permet d'atténuer ces anomalies. 
 
 ### Anomalies sur une donnée
 Parfois l'anomalie ne concerne qu'un type de donnée comme les entrées en réanimation. La comparaison de plusieurs données, comme les hospitalisations et les décès avec les entrées en réanimation permet de détecter ce type d'anomalie.
 On peut aussi comparer la donnée à la moyenne et à l'écart-type pour vérifier sa vraisemblance.
 
 ### Conclusion
-Il est indispensable de regarder, analyser et croiser les données pour détecter les anomalies et rechercher à les expliquer avec de prendre des décisions. La donnée, comme toute information, doit être confirmée.
+Il est indispensable de regarder, analyser et croiser les données pour détecter les anomalies et rechercher à les expliquer avant de prendre des décisions. La donnée, comme toute information, doit être confirmée.
 
 ## Anomalies sur les entrées en réanimation croisées avec les décès
 
-En général, le nombre d'entrées en réanimation et de décès sont similaires. 
+En général, les nombres d'entrées en réanimation et de décès sont similaires. 
 Au 1er mai, la France comptait 15350 décès hospitaliers lié au COVID-19 et 15953 entrées en réanimation pour COVID-19.
 Tout les écarts entre les décès et les entrées en réanimation signalent des anomalies.
 
-**ATTENTION** : Les nombres des décès hospitaliers et des entrées en réanimation sont similaires et pourtant il y a moins de décès parmi les personnes en réanimation que les celles non en réanimation. D'ailleurs les personnes en réanimation sont nettement plus jeunes que les personnes décédées. Il ne faut pas confondre corrélation et lien de causalité. Le nombre de décès et le nombre de personnes en réanimation sont corrélés car ils sont causés par une cause commune la circulation du virus, mais il ne s'agit pas des mêmes personnes.
+**ATTENTION** : Les nombres des décès hospitaliers et des entrées en réanimation sont similaires et pourtant il y a moins de décès parmi les personnes en réanimation que parmi celles non en réanimation. D'ailleurs les personnes en réanimation sont nettement plus jeunes que les personnes décédées. Il ne faut pas confondre corrélation et lien de causalité. Le nombre de décès et le nombre de personnes en réanimation sont corrélés car ils sont causés par une cause commune la circulation du virus, mais il ne s'agit pas des mêmes personnes.
 
 Voici la carte donnant par département le ratio entre décès et réanimation. 
 Les départements en anomalie correspondent aux couleurs foncées.  
 
 ![](Images/ca_carte_rea_dc200501.png)
 
-Ainsi le Tarn-et-Garonne déplore 4 décès au 1er mai et a eu 17 personnes entrées en réanimation dans la même période. Cette anomalie peut résulter du faible nombre d'évènements, ce qui rend l'information statistique moins significative ou avoir une autre cause.
+Ainsi le Tarn-et-Garonne déplore 4 décès au 1er mai et a eu 17 personnes admises en réanimation dans la même période. Cette anomalie peut résulter du faible nombre d'évènements, ce qui rend l'information statistique moins significative ou avoir une autre cause.
 A l'autre extrémité de l'échelle, les Vosges déplore 234 décès au 1er mai pour 123 personnes entrées en réanimation dans la même période. Cette anomalie peut résulter d'une des causes probables suivantes :
 - une saturation des réanimations ;
 - des décès apparus avant l'enregistrement des entrées en réanimation.
 
-La Seine-Saint-Denis connait aussi une anomalie avec 835 décès pour 616 entrées en réanimation. La cause probable est la saturation des réanimations. Sachant que les patients peuvent être dirigés vers d'autres hopitaux de la région, cela n'implique pas un déficit de soin, mais montre la limite des chiffres départementaux lorsque les patients sont dispatchés à l'extérieur du département. Pour aller plus loin, il faut savoir comment les patients ont circulé entre les hopitaux d'Ile de France lorsque leur situtation s'aggravait. 
+La Seine-Saint-Denis connait aussi une anomalie avec 835 décès pour 616 entrées en réanimation. La cause probable est la saturation des réanimations. Sachant que les patients peuvent être dirigés vers d'autres hopitaux de la région, cela n'implique pas un déficit de soin, mais montre la limite des chiffres départementaux lorsque les patients sont dispatchés à l'extérieur du département. Pour aller plus loin, il faut savoir comment les patients ont circulé entre les hopitaux d'Ile de France lorsque leur situation s'aggravait. 
 
 ## Anomalies sur les hospitalisations pour suspicion de COVID-19 après passage aux urgences
 
@@ -52,7 +52,7 @@ La carte des ratios entre ces données par département montre une anomalie rema
 ![](Images/ca_carte_hosp_dc200501.png)
 
 Il s'agit de la Haute-Corse.
-La Haute-Corse a déploré 8 décès et aurait du avoir 30 hospitalisations, elle en a compté 1626. Les hospitalisations continuent encore au 30 avril à un ryhtme élevé.
+La Haute-Corse a déploré 8 décès et aurait du avoir 30 hospitalisations, elle en a compté 1626. Les hospitalisations continuent encore au 30 avril à un rythme élevé.
 Plusieurs explications sont possibles :
 - les gens sont plus jeunes et donc guérissent mieux
 - les personnes hospitalisées ne présentent pas des cas graves
@@ -70,7 +70,7 @@ Le changement d'échelle de couleur montre d'autres anomalies.
 
 Le Tarn-et-Garonne est en anomalie avec 202 hospitalisations pour 4 décès. Les hospitalisations se sont cependant arrêtées le 10 avril.
 
-La Haute-Loire présente une anomalie inverse avec 5 personnes hospitalisées après passage aux urgences pour suspicion de COVID-19, 7 entrées en réanimation et 11 décès. 
+La Haute-Loire présente une anomalie inverse avec 5 personnes hospitalisées après passage aux urgences pour suspicion de COVID-19, 7 entrées en réanimation et 11 décès à l'hopital.
 Les patients circulent entre les hopitaux d'une même région et parfois entre les régions et il est difficile de juger un département seul. C'est une explication possible, mais probablement pas la bonne.
 
 ## Anomalies sur la contamination déduite des décès hospitaliers
@@ -79,9 +79,9 @@ On peut considérer que les décès hospitaliers sont un bon indicateur de la co
 
 ![](Images/ca_carte_contamination200502.png)
 
-Le Territoire de Belfort présente un nombre de décès important, 151, pour 140 000 habitants. Le département est petit et limitrophe du Haut-Rhin. Les malades sont répartis dans les hopitaux de la région en fonction des places et finalement le nombre de décès hospitaliers n'est pas le nombre de décès des habitants du département.
+Le Territoire de Belfort présente un nombre de décès important, 151, pour 140 000 habitants. Le département est petit et limitrophe notamment du Haut-Rhin et du Doubs. Les malades sont répartis dans les hopitaux de la région en fonction des places et finalement le nombre de décès hospitaliers n'est pas le nombre de décès des habitants du département.
 
-Il vaut mieux changer l'échelle de couleur pour gommer le biais du Territoire de Belfort. Une autre solution consisterait à sommer le Territoire de Belfort avec le Haut-Rhin.
+Il vaut mieux changer l'échelle de couleur pour gommer le biais du Territoire de Belfort. Une autre solution consisterait à sommer le Territoire de Belfort avec le Haut-Rhin ou le Doubs.
 
 ![](Images/ca_carte_contamination_200502v2.png)
 
