@@ -79,84 +79,111 @@ Les zooms régionaux permettent de mieux identifier les communes qui présentent
 
 
 ## Zooms régionaux
+Les liens accèdent aux cartes interactives qui donnent le nom de la commune et la valeur de surmortalité du thème au survol de la souris.
 ### Zooms régionaux surmortalité au logement
 #### Ile de France
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_11.svg)
 ![](Images/dens_surlogemcom_11.png)
 [retour](#_)
 #### Centre Val de Loire
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_24.svg)
 ![](Images/dens_surlogemcom_24.png)
 [retour](#_)
 #### Bourgogne Franche-Comté
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_27.svg)
 ![](Images/dens_surlogemcom_27.png)
 [retour](#_)
 #### Normandie
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_28.svg)
 ![](Images/dens_surlogemcom_28.png)
 [retour](#_)
 #### Hauts de France
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_32.svg)
 ![](Images/dens_surlogemcom_32.png)
 [retour](#_)
 #### Grand Est
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_44.svg)
 ![](Images/dens_surlogemcom_44.png)
 [retour](#_)
 #### Pays de la Loire
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_52.svg)
 ![](Images/dens_surlogemcom_52.png)
 [retour](#_)
 #### Bretagne
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_53.svg)
 ![](Images/dens_surlogemcom_53.png)
 [retour](#_)
 #### Nouvelle Aquitaine
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_75.svg)
 ![](Images/dens_surlogemcom_75.png)
 [retour](#_)
 #### Occitanie
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_76.svg)
 ![](Images/dens_surlogemcom_76.png)
 [retour](#_)
 #### Auvergne Rhone Alpes
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_84.svg)
 ![](Images/dens_surlogemcom_84.png)
 [retour](#_)
 #### Provence Alpes Côte d'Azur
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_93.svg)
 ![](Images/dens_surlogemcom_93.png)
 [retour](#_)
 #### Corse
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surlogemcom_94.svg)
 ![](Images/dens_surlogemcom_94.png)
 [retour](#_)
 
 ### Zooms régionaux surmortalité en hospice, maison de retraite et EHPAD.
 #### Ile de France
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_11.svg)
 ![](Images/dens_surhosmarcom_11.png)
 [retour](#_-1)
 #### Centre Val de Loire
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_24.svg)
 ![](Images/dens_surhosmarcom_24.png)
 [retour](#_-1)
 #### Bourgogne Franche-Comté
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_27.svg)
 ![](Images/dens_surhosmarcom_27.png)
 [retour](#_-1)
 #### Normandie
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_28.svg)
 ![](Images/dens_surhosmarcom_28.png)
 [retour](#_-1)
 #### Hauts de France
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_32.svg)
 ![](Images/dens_surhosmarcom_32.png)
 [retour](#_-1)
 #### Grand Est
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_44.svg)
 ![](Images/dens_surhosmarcom_44.png)
 [retour](#_-1)
 #### Pays de la Loire
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_52.svg)
 ![](Images/dens_surhosmarcom_52.png)
 [retour](#_-1)
 #### Bretagne
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_53.svg)
 ![](Images/dens_surhosmarcom_53.png)
 [retour](#_-1)
 #### Nouvelle Aquitaine
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_75.svg)
 ![](Images/dens_surhosmarcom_75.png)
 [retour](#_-1)
 #### Occitanie
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_76.svg)
 ![](Images/dens_surhosmarcom_76.png)
 [retour](#_-1)
 #### Auvergne Rhone Alpes
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_84.svg)
 ![](Images/dens_surhosmarcom_84.png)
 [retour](#_-1)
 #### Provence Alpes Côte d'Azur
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_93.svg)
 ![](Images/dens_surhosmarcom_93.png)
 [retour](#_-1)
 #### Corse
+[lien carte interactive](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/dens_surhosmarcom_94.svg)
 ![](Images/dens_surhosmarcom_94.png)
 [retour](#_-1)
