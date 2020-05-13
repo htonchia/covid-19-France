@@ -65,6 +65,10 @@ Les départements peu habités voient leur indicateur de circulation remonter ra
 
 ![](Images/ca_carte_indicateur_cir.png)
 
+
+## Commentaires du 13 mai
+L'Aisne apparaît sur la carte de circulation en raison de 3 nouvelles entrées en réanimation, alors qu'au maximum, le département avait enregistré 7 entrées en réanimation en une journée. 
+
 ## Commentaires du 12 mai
 La Seine-Saint-Denis connait un flux faible d'entrées en réanimation, avec un rebond très récent, qui explique la valeur soutenue de l'indicateur de circulation.
 L'Eure-et-Loir a connu quelques entrées en réanimation récemment, ce qui provoque un léger rebond de la circulation. 
