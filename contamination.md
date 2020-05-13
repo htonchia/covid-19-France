@@ -60,7 +60,7 @@ La contamination est sous-estimée dans les premiers départements touchés, not
 La circulation correspond à la vitesse à laquelle augmente la contamination. Les données de surmortalité au logement, en raison des quinze jours de retard, sont trop anciennes pour estimer la circulation courante.
 
 Les départements peu habités voient leur indicateur de circulation remonter rapidement dès qu'une personne rentre en réanimation. C'est pourquoi la carte est fournie en version interactive qui donne le nom du département et sa population au survol de la souris.
-[Lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_indicateur_cir.svg) 
+[Lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/a0e19f5243cb1ba1b21f42950e033bb42bb987af/Images/ca_carte_indicateur_cir.svg) 
 
 
 ![](Images/ca_carte_indicateur_cir.png)
