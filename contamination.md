@@ -65,7 +65,12 @@ Les départements peu habités voient leur indicateur de circulation remonter ra
 
 ![](Images/ca_carte_indicateur_cir.png)
 
-
+## Commentaires du 12 mai
+La Seine-Saint-Denis connait un flux faible d'entrées en réanimation, avec un rebond très récent, qui explique la valeur soutenue de l'indicateur de circulation.
+L'Eure-et-Loir a connu quelques entrées en réanimation récemment, ce qui provoque un léger rebond de la circulation. 
+Après 15 jours sans activité, les Hautes-Pyrénées ont admis dans les 15 derniers jours deux personnes en réanimation, ce qui est beaucoup au vu des 14 personnes admises en réanimation depuis le début de l'épidémie et confirme que le virus circule toujours.
+La Haute-Loire n'a admis que 9 personnes en réanimation, dont 2 dans la dernière semaine, ce qui explique le rebond de circulation. 
+D'après des informations communiquées par l'ARS de Corse, il est possible que la valeur élevée de la Haute-Corse résulte d'un dépistage agressif. 
 
 ### Commentaire du 9 mai
 
