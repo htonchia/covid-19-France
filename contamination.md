@@ -59,9 +59,17 @@ La contamination est sous-estimée dans les premiers départements touchés, not
 
 La circulation correspond à la vitesse à laquelle augmente la contamination. Les données de surmortalité au logement, en raison des quinze jours de retard, sont trop anciennes pour estimer la circulation courante.
 
+Les départements peu habités voient leur indicateur de circulation remonter rapidement dès qu'une personne rentre en réanimation. C'est pourquoi la carte est fournie en version interactive qui donne le nom du département et sa population au survol de la souris.
+[Lien carte interactive au survol de la souris pour les navigateurs compatibles](https://raw.githubusercontent.com/htonchia/covid-19-France/master/Images/ca_carte_indicateur_cir.svg) 
+
+
 ![](Images/ca_carte_indicateur_cir.png)
 
-Au 9 mai 2020, le département de l'Aube présentait un indicateur de circulation bien supérieur à celui de la Seine-Saint-Denis. Pourquoi ? 
+
+
+### Commentaire du 9 mai
+
+Au 8 mai 2020, le département de l'Aube présentait un indicateur de circulation bien supérieur à celui de la Seine-Saint-Denis. Pourquoi ? 
 
 Les données des départements de l'Aube et de la Seine-Saint-Denis confirment que les entrées en réanimation et les hospitalisations pour suspicion de COVID-19 après passage aux urgences sont supérieures dans l'Aube par rapport à la Seine-Saint-Denis le 9 mai 2020. C'est ce que représente la carte de l'indicateur de circulation. Les courbes sont normalisées à 1 M d'habitants afin d'être comparables.
 L'Aube avec 300 000 habitants est bien moins peuplé que la Seine-Saint-Denis et ses 1.7 M d'habitants. Les données de l'Aube varient plus. Les entrées en réanimation et les hospitalisations ont bien moins décru dans l'Aube que dans la Seine-Saint-Denis. L'Aube a un indicateur de contamination de 10% contre 15% pour la Seine-Saint-Denis. Etant donné la taille du département, un seul cluster pourrait causer cette circulation. Cette valeur de circulation résulte des 7 entrées en réanimation entre le 2 et le 3 mai. Il y a eu aussi en moyenne 3 hospitalisations par jour après passage aux urgences pour suspicion de COVID-19. 
